@@ -1,0 +1,7 @@
+# Site settings
+title: Robert Wildgoose
+description: Portfolio Of Work
+keywords: Mobile Apps, Developer, Swift, C# , Apps
+author: Robert Wildgoose
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site

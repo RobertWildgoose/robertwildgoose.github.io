@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Robert Wildgoose</title>
+        <description>Portfolio Of Work</description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self"
+        type="application/rss+xml"/>
+        <pubDate>Wed, 06 May 2020 22:21:38 +0100</pubDate>
+        <lastBuildDate>Wed, 06 May 2020 22:21:38 +0100</lastBuildDate>
+        <generator>Jekyll v4.0.0</generator>
+        
+        <item>
+            <title>Morsed Mobile App</title>
+            <description>&lt;div class=&quot;col-12 col-sm-12 col-md-12&quot;&gt;
+	&lt;center&gt;
+		&lt;h1&gt;MORSED&lt;/h1&gt;
+		&lt;h3&gt;An iOS application for translating Morse Code&lt;/h3&gt;
+	&lt;/center&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/id1469132515&quot;&gt;
+	&lt;center&gt;&lt;button type=&quot;button&quot; class=&quot;langbutton&quot;&gt;Click Here To View It On The App Store&lt;/button&gt;&lt;/center&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;Release&quot;&gt;
+	&lt;div class=&quot;ReleaseImage&quot;&gt;
+		&lt;img src=&quot;https://pbs.twimg.com/media/EUX6Hd_WsAAtCsl?format=jpg&amp;amp;name=medium&quot; style=&quot;width:100%;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;ReleaseText&quot;&gt;
+		&lt;h4&gt;Version 1.8.1(Current Live Version)&lt;/h4&gt;
+		&lt;h4&gt;Whats New In This Release&lt;/h4&gt;
+		&lt;h6&gt;This version includes &quot;Audio Morsed&quot; allowing users to type a message and have the translated morse code played back to them, this feature had been requested in reviews (see below) and is only the first addition with Audio Morsed.&lt;/h6&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;Release&quot;&gt;
+	&lt;div class=&quot;ReleaseImage&quot;&gt;
+		&lt;img src=&quot;https://pbs.twimg.com/media/ET6JHLzWsAIJOjQ?format=jpg&amp;amp;name=medium&quot; style=&quot;width:100%;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;ReleaseText&quot;&gt;
+		&lt;h4&gt;Version 1.7.2&lt;/h4&gt;
+		&lt;h4&gt;Whats New In This Release&lt;/h4&gt;
+		&lt;h6&gt;In this version I've added a feature submission page to allow people to post things they would like to see integrated into the application, as well as this i've fixed a few bugs.&lt;/h6&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;Release&quot;&gt;
+	&lt;div class=&quot;ReleaseImage&quot;&gt;
+		&lt;img src=&quot;https://pbs.twimg.com/media/ER3ZaiCWoAMpTiu?format=jpg&amp;amp;name=medium&quot; style=&quot;width:100%;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;ReleaseText&quot;&gt;
+		&lt;h4&gt;Version 1.7.1&lt;/h4&gt;
+		&lt;h4&gt;Whats New In This Release&lt;/h4&gt;
+		&lt;h6&gt;I've cleaned up some bugs as well as adding support for emojis.
+		You can now replace those dots and dashes with emojis to add that extra layer of amusement to your Morsed conversations.&lt;/h6&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;Release&quot;&gt;
+	&lt;div class=&quot;ReleaseImage&quot;&gt;
+		&lt;img src=&quot;https://pbs.twimg.com/media/EQ7T6XCXUAEmShg?format=jpg&amp;amp;name=medium&quot; style=&quot;width:100%;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;ReleaseText&quot;&gt;
+		&lt;h4&gt;Version 1.6.1&lt;/h4&gt;
+		&lt;h4&gt;Whats New In This Release&lt;/h4&gt;
+		&lt;h6&gt;I've cleared up the UI so that it follows suit throughout the app. Removed the Dark Mode switch originally added and integrated Native Dark Mode. Fixed a few issues within the iMessage Extensions not auto translating on selection.&lt;/h6&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;Release&quot;&gt;
+	&lt;div class=&quot;ReleaseImage&quot;&gt;
+		&lt;img src=&quot;https://pbs.twimg.com/media/EQRsOraXYAAk1xv?format=jpg&amp;amp;name=medium&quot; style=&quot;width:100%;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;ReleaseText&quot;&gt;
+		&lt;h4&gt;Version 1.5.1&lt;/h4&gt;
+		&lt;h4&gt;Whats New In This Release&lt;/h4&gt;
+		&lt;h6&gt;In this version, I've added a new iMessage Extension allowing users to share there translation within the apple messages app.&lt;/h6&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;Release&quot;&gt;
+	&lt;div class=&quot;ReleaseImage&quot;&gt;
+&lt;img src=&quot;img/MorsedLogo.png&quot; style=&quot;width:100%;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;ReleaseText&quot;&gt;
+		&lt;h4&gt;Version 1.4.1&lt;/h4&gt;
+		&lt;h4&gt;Whats New In This Release&lt;/h4&gt;
+		&lt;h6&gt;In this version, I've added a new &quot;Morse Code Guide&quot; allowing users to see all characters side by side translations.&lt;/h6&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;Release&quot;&gt;
+	&lt;div class=&quot;ReleaseImage&quot;&gt;
+&lt;img src=&quot;img/MorsedLogo.png&quot; style=&quot;width:100%;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;ReleaseText&quot;&gt;
+		&lt;h4&gt;Version 1.3.1&lt;/h4&gt;
+		&lt;h4&gt;Whats New In This Release&lt;/h4&gt;
+			&lt;h6&gt;In this version, I've added numerical translations have been added as well as some minor bug fixes.&lt;/h6&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;Release&quot;&gt;
+	&lt;div class=&quot;ReleaseImage&quot;&gt;
+&lt;img src=&quot;img/MorsedLogo.png&quot; style=&quot;width:100%;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;ReleaseText&quot;&gt;
+		&lt;h4&gt;Version 1.2.1&lt;/h4&gt;
+		&lt;h4&gt;Whats New In This Release&lt;/h4&gt;
+		&lt;h6&gt;
+			This version contains a total redesign of the app, including dark mode.&lt;br /&gt;
+			The biggest improvement within this release is the size of the application which has reduced massively from the previous 66mb to 13.8 MB.&lt;br /&gt;
+			Dark Mode&lt;br /&gt;
+			Allowing the visual UI to switch between dark or light, this setting is saved so that when you restart the device you wont need to switch.&lt;br /&gt;
+			Copy &amp;amp; Paste&lt;br /&gt;
+			Translations made within the app can now be copied and pasted into which ever other app you wish to use it in.&lt;br /&gt;
+			Send&lt;br /&gt;
+			The ability to share translations over other apps is now live allowing you to use your messages in WhatsApp, Facebook Messenger and more.&lt;/h6&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;Release&quot;&gt;
+	&lt;div class=&quot;ReleaseImage&quot;&gt;
+&lt;img src=&quot;img/MorsedLogo.png&quot; style=&quot;width:100%;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;ReleaseText&quot;&gt;
+		&lt;h4&gt;Version 1.1&lt;/h4&gt;
+		&lt;h6&gt;
+			This version is the initial upload of the app, created in Xamarin this app was poorly designed and required bug fixing.&lt;/h6&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+</description>
+            <pubDate>Sat, 02 May 2020 13:12:12 +0100</pubDate>
+            <link>http://localhost:4000#/2020/05/02/Morsed.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2020/05/02/Morsed.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Random User Generator</title>
+            <description>&lt;h3 id=&quot;what-is-it-and-how-can-i-use-it&quot;&gt;What Is It and How Can I Use It&lt;/h3&gt;
+&lt;p&gt;C# Random User Library provides random user data for each call sent out.&lt;br /&gt;
+Pulling down the code from github and add this to your project.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/RobertWildgoose/RandomUserLib&quot;&gt;&lt;button type=&quot;button&quot; class=&quot;langbutton&quot;&gt;Click Here To View It On Github&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;how-do-i-get-a-single-user&quot;&gt;How do I get a single user?&lt;/h3&gt;
+&lt;pre&gt;var SingleUser = UserGeneratorService.GetSingleUser().results.ElementAtOrDefault(0);&lt;/pre&gt;
+
+&lt;h3 id=&quot;how-do-i-get-a-certain-amount-of-users&quot;&gt;How do I get a certain amount of users?&lt;/h3&gt;
+&lt;pre&gt;var MultipleUsers = UserGeneratorService.GetMultipleUsers(10).results;&lt;/pre&gt;
+
+&lt;h3 id=&quot;how-do-i-get-a-previous-user-back-again&quot;&gt;How do I get a previous user back again?&lt;/h3&gt;
+&lt;pre&gt;var MultipleUsers = UserGeneratorService.GetSpecificUser(User.seed).results;&lt;/pre&gt;
+
+&lt;h3 id=&quot;how-do-i-get-a-user-from-a-specific-demographic&quot;&gt;How do I get a User from a specific Demographic?&lt;/h3&gt;
+&lt;pre&gt;var SpanishUser = UserGeneratorService.GetSingleUserSpecificNationality(Nationality.Spain).results.ElementAtOrDefault(0);&lt;/pre&gt;
+
+&lt;h3 id=&quot;how-do-i-get-a-set-of-10-users-from-a-specific-demographic&quot;&gt;How do I get a Set Of 10 Users from a specific Demographic?&lt;/h3&gt;
+&lt;pre&gt;var MultipleSpanishUser = UserGeneratorService.GetMultiUsersSpecificNationality(Nationality.Spain,10).results;&lt;/pre&gt;
+</description>
+            <pubDate>Sat, 22 Jun 2019 13:12:12 +0100</pubDate>
+            <link>http://localhost:4000#/2019/06/22/RandomUserGenerator.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2019/06/22/RandomUserGenerator.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>UK Crime Data</title>
+            <description>&lt;h1 id=&quot;c-uk-crime-data-library&quot;&gt;C# UK Crime Data Library&lt;/h1&gt;
+
+&lt;p&gt;##Installation&lt;/p&gt;
+
+&lt;p&gt;Simply pull this repo down and add the project into your projects solution.
+&lt;br /&gt;
+Once included there are several calls you can make ,which are shown below.&lt;/p&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://github.com/RobertWildgoose/UKCrimeData&quot;&gt;&lt;button type=&quot;button&quot; class=&quot;langbutton&quot;&gt;Click Here To View It On Github&lt;/button&gt;&lt;/a&gt;&lt;/center&gt;
+
+&lt;p&gt;###How do I get a every police force&lt;/p&gt;
+&lt;pre&gt;var AllPoliceForces = CrimeService.GetAllForces();&lt;/pre&gt;
+
+&lt;p&gt;###How do I get a more info on a certain police force ie Wiltshire Police&lt;/p&gt;
+&lt;pre&gt;var PoliceForce = CrimeService.GetSingleForces(&quot;wiltshire&quot;);&lt;/pre&gt;
+
+&lt;p&gt;###How do I get all crimes for a certain date in a certain location&lt;/p&gt;
+&lt;pre&gt;var Crimes = CrimeService.GetAllCrimesByPoint(&quot;52.9534161&quot;, &quot;-1.1492773&quot;,&quot;2018-10&quot;);&lt;/pre&gt;
+</description>
+            <pubDate>Sat, 22 Jun 2019 13:12:12 +0100</pubDate>
+            <link>http://localhost:4000#/2019/06/22/UKCrimeDataCSharp.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2019/06/22/UKCrimeDataCSharp.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>AR Monsters</title>
+            <description>&lt;h3 id=&quot;what-is-it&quot;&gt;What is it?&lt;/h3&gt;
+&lt;p&gt;A Small POC i’ve made using pokemon cards as image placeholders to add in 3d pokemon models&lt;/p&gt;
+
+&lt;h3 id=&quot;what-could-be-added&quot;&gt;What could be added?&lt;/h3&gt;
+&lt;p&gt;I plan to later on implement health bars and showing the pokemon’s attacks as pressable buttons.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;After pushing my self to do something &lt;a href=&quot;https://twitter.com/hashtag/arkit?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#arkit&lt;/a&gt; based I’ve finally got something that I’m happy to put up on here - It’s by no means finished but it’s something I’ve made use of my the daughters Pokemon cards for yeh that’s it they are her cards.......&lt;a href=&quot;https://twitter.com/hashtag/thataintpolywhirl?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#thataintpolywhirl&lt;/a&gt; &lt;a href=&quot;https://t.co/im8O4ElIVq&quot;&gt;pic.twitter.com/im8O4ElIVq&lt;/a&gt;&lt;/p&gt;&amp;mdash; Robert Wildgoose (@hewhoiscould) &lt;a href=&quot;https://twitter.com/hewhoiscould/status/1121890628630196227?ref_src=twsrc%5Etfw&quot;&gt;April 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+            <pubDate>Fri, 26 Apr 2019 13:12:12 +0100</pubDate>
+            <link>http://localhost:4000#/2019/04/26/ARMonsters.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2019/04/26/ARMonsters.html</guid>
+            
+            
+        </item>
+        
+    </channel>
+</rss>

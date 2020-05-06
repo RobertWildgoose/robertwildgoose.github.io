@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/2015/04/20/planes/</loc>
+<lastmod>2015-04-20T13:12:12+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2015/04/21/city-nights/</loc>
+<lastmod>2015-04-21T13:12:12+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2015/04/22/what-time/</loc>
+<lastmod>2015-04-22T13:12:12+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2015/04/23/night-sky/</loc>
+<lastmod>2015-04-23T13:12:12+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2015/04/24/i-scream/</loc>
+<lastmod>2015-04-24T13:12:12+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2015/04/25/workshop/</loc>
+<lastmod>2015-04-25T13:12:12+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page/2/</loc>
+</url>
+</urlset>
