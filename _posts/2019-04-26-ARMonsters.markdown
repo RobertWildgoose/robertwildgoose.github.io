@@ -3,7 +3,7 @@ title:  "AR Monsters"
 subtitle: "A Personal Challenge"
 author: "Robert Wildgoose"
 avatar: "img/authors/robertwildgoose.png"
-class: "Swift"
+class: "devicon-swift-plain-wordmark colored"
 image: "img/ARMonsters.jpg"
 date:   2019-04-26 12:12:12
 ---

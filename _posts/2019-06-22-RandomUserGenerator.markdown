@@ -3,7 +3,7 @@ title:  "Random User Generator"
 subtitle: "A C# Library"
 author: "Robert Wildgoose"
 avatar: "img/authors/robertwildgoose.png"
-class: "CSharp"
+class: "devicon-csharp-plain colored"
 image: "img/RandomUserGenerator.jpg"
 date:   2019-06-22 12:12:12
 ---

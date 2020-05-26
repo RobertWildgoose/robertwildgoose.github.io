@@ -3,7 +3,7 @@ title:  "Morsed Mobile App"
 subtitle: "A Dot Dash Release"
 author: "Robert Wildgoose"
 avatar: "img/authors/robertwildgoose.png"
-class: "Swift"
+class: "devicon-swift-plain-wordmark colored"
 image: "img/MorsedBanner.jpg"
 date:   2020-05-02 12:12:12
 ---
