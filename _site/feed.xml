@@ -6,30 +6,9 @@
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2020 22:05:02 +0100</pubDate>
-        <lastBuildDate>Tue, 26 May 2020 22:05:02 +0100</lastBuildDate>
+        <pubDate>Tue, 26 May 2020 22:32:26 +0100</pubDate>
+        <lastBuildDate>Tue, 26 May 2020 22:32:26 +0100</lastBuildDate>
         <generator>Jekyll v4.0.0</generator>
-        
-        <item>
-            <title>RW AppIcon Generator</title>
-            <description>&lt;div class=&quot;col-12 col-sm-12 col-md-12&quot;&gt;
-	&lt;center&gt;
-		&lt;h1&gt;RW AppIcon Generator&lt;/h1&gt;
-		&lt;h3&gt;A mac application for batch generating App Store and In App Assets&lt;/h3&gt;
-                &lt;h4&gt;This app will allow you to drop your apps icon onto the view and then with a button press will convert your single image into the correct icon sizes for the following platforms&lt;/h4&gt;
-                &lt;h2&gt;iPhone&lt;/h2&gt;
-                &lt;h2&gt;iPad&lt;/h2&gt;
-                &lt;h2&gt;Mac&lt;/h2&gt;
-                &lt;h4&gt;This app can be downloaded &lt;a href=&quot;../files/AppIconGenerator.zip/&quot; download=&quot;&quot;&gt;Here&lt;/a&gt;&lt;/h4&gt;
-	&lt;/center&gt;
-&lt;/div&gt;
-</description>
-            <pubDate>Mon, 25 May 2020 13:12:12 +0100</pubDate>
-            <link>http://localhost:4000#/2020/05/25/AppIconGenerator.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2020/05/25/AppIconGenerator.html</guid>
-            
-            
-        </item>
         
         <item>
             <title>Morsed Mobile App</title>
