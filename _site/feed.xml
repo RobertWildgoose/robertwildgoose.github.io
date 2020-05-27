@@ -6,9 +6,48 @@
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2020 18:27:16 +0100</pubDate>
-        <lastBuildDate>Wed, 27 May 2020 18:27:16 +0100</lastBuildDate>
+        <pubDate>Wed, 27 May 2020 20:54:32 +0100</pubDate>
+        <lastBuildDate>Wed, 27 May 2020 20:54:32 +0100</lastBuildDate>
         <generator>Jekyll v4.0.0</generator>
+        
+        <item>
+            <title>App Icon Generator</title>
+            <description>&lt;style&gt;.bmc-button img{height: 34px !important;width: 35px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{padding: 7px 15px 7px 10px !important;line-height: 35px !important;height:51px !important;text-decoration: none !important;display:inline-flex !important;color:#FFFFFF !important;background-color:#FF813F !important;border-radius: 5px !important;border: 1px solid transparent !important;padding: 7px 15px 7px 10px !important;font-size: 22px !important;letter-spacing: 0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#FFFFFF !important;}&lt;/style&gt;
+
+&lt;div class=&quot;col-12 col-sm-12 col-md-12&quot;&gt;
+	&lt;center&gt;
+		&lt;h1&gt;App Icon Generator&lt;/h1&gt;
+		&lt;h3&gt;A Mac app to generator icons for your iOS and Mac apps&lt;/h3&gt;
+	&lt;/center&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-12 col-sm-12 col-md-12&quot;&gt;
+	&lt;center&gt;
+		&lt;a href=&quot;../files/AppIconGenerator.zip&quot; download=&quot;&quot;&gt;&lt;button type=&quot;button&quot; class=&quot;langbutton&quot;&gt;Click Here To Download The Mac App&lt;/button&gt;&lt;/a&gt;
+	&lt;/center&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-12 col-sm-12 col-md-12&quot;&gt;
+	&lt;center&gt;
+		&lt;img src=&quot;../img/AIG.jpg&quot; style=&quot;width:40%;&quot; /&gt;
+	&lt;/center&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-12 col-sm-12 col-md-12&quot;&gt;
+	&lt;center&gt;
+		&lt;link href=&quot;https://fonts.googleapis.com/css?family=Cookie&quot; rel=&quot;stylesheet&quot; /&gt;&lt;a class=&quot;bmc-button&quot; target=&quot;_blank&quot; href=&quot;https://www.buymeacoffee.com/robertwildgoose&quot;&gt;&lt;img src=&quot;https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg&quot; alt=&quot;Buy me a coffee&quot; /&gt;&lt;span style=&quot;margin-left:5px;font-size:28px !important;&quot;&gt;Buy me a coffee&lt;/span&gt;&lt;/a&gt;
+	&lt;/center&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-12 col-sm-12 col-md-12&quot;&gt;
+	&lt;center&gt;
+		&lt;h3&gt;Version 1.2(Current Downloadable Version)&lt;/h3&gt;
+		&lt;h5&gt;This version includes a generator for iPhone, iPad and Mac apps as well as providing scaled assets as well.&lt;/h5&gt;
+	&lt;/center&gt;
+&lt;/div&gt;
+</description>
+            <pubDate>Wed, 27 May 2020 13:12:12 +0100</pubDate>
+            <link>http://localhost:4000#/2020/05/27/AppIconGenerator.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2020/05/27/AppIconGenerator.html</guid>
+            
+            
+        </item>
         
         <item>
             <title>Morsed Mobile App</title>
