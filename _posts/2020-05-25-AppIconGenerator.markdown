@@ -11,12 +11,12 @@ date:   2020-05-27 12:12:12
 <div class="col-12 col-sm-12 col-md-12">
 	<center>
 		<h1>App Icon Generator</h1>
-		<h3>A Mac app to generator icons for your iOS and Mac apps</h3>
+		<h3>A Mac app to generate icons for your iOS and Mac apps</h3>
 	</center>
 </div>
 <div class="col-12 col-sm-12 col-md-12">
 	<center>
-		<a href="../files/AppIconGenerator.zip" download><button type="button" class="langbutton">Click Here To Download The Mac App</button></a>
+		<a href="../files/AppIconGenerator.zip" download><button type="button" class="langbutton">Click Here To Download The Mac App Now</button></a>
 	</center>
 </div>
 <div class="col-12 col-sm-12 col-md-12">

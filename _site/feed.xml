@@ -6,8 +6,8 @@
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2020 20:54:32 +0100</pubDate>
-        <lastBuildDate>Wed, 27 May 2020 20:54:32 +0100</lastBuildDate>
+        <pubDate>Wed, 27 May 2020 20:57:01 +0100</pubDate>
+        <lastBuildDate>Wed, 27 May 2020 20:57:01 +0100</lastBuildDate>
         <generator>Jekyll v4.0.0</generator>
         
         <item>
@@ -17,12 +17,12 @@
 &lt;div class=&quot;col-12 col-sm-12 col-md-12&quot;&gt;
 	&lt;center&gt;
 		&lt;h1&gt;App Icon Generator&lt;/h1&gt;
-		&lt;h3&gt;A Mac app to generator icons for your iOS and Mac apps&lt;/h3&gt;
+		&lt;h3&gt;A Mac app to generate icons for your iOS and Mac apps&lt;/h3&gt;
 	&lt;/center&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-12 col-sm-12 col-md-12&quot;&gt;
 	&lt;center&gt;
-		&lt;a href=&quot;../files/AppIconGenerator.zip&quot; download=&quot;&quot;&gt;&lt;button type=&quot;button&quot; class=&quot;langbutton&quot;&gt;Click Here To Download The Mac App&lt;/button&gt;&lt;/a&gt;
+		&lt;a href=&quot;../files/AppIconGenerator.zip&quot; download=&quot;&quot;&gt;&lt;button type=&quot;button&quot; class=&quot;langbutton&quot;&gt;Click Here To Download The Mac App Now&lt;/button&gt;&lt;/a&gt;
 	&lt;/center&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-12 col-sm-12 col-md-12&quot;&gt;
