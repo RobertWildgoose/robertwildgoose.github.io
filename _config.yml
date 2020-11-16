@@ -1,7 +1,12 @@
 # Site settings
 title: Robert Wildgoose
+subtitle: Mobile Apps Developer
 description: Portfolio Of Work
 keywords: Mobile Apps, Developer, Swift, C# , Apps
 author: Robert Wildgoose
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+twitter: https://www.twitter.com/hewhoiscould
+github: https://github.com/RobertWildgoose
+apple: https://apps.apple.com/bh/developer/robert-wildgoose/id1469132514
+linkedin: https://www.linkedin.com/in/robert-wildgoose-2031a183/

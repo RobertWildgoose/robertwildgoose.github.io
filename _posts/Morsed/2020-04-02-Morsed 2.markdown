@@ -1,0 +1,23 @@
+---
+title:  "Morsed Mobile App"
+subtitle: "Version 1.7.2"
+author: "Robert Wildgoose"
+type: MobileApp
+layout: post
+avatar: "img/authors/robertwildgoose.png"
+class: "devicon-swift-plain-wordmark colored"
+image: "https://pbs.twimg.com/media/ET6JHLzWsAIJOjQ?format=jpg&name=medium"
+date:   2020-04-02 12:12:12
+link: https://apps.apple.com/us/app/id1469132515
+---
+
+<div class="post-heading">
+	<div class="post-image-container">
+		<img class="project-logo" src="https://pbs.twimg.com/media/ET6JHLzWsAIJOjQ?format=jpg&name=medium"/>
+	</div>
+	<div class="post-bio-container">
+		<h4>Version 1.7.2</h4>
+		<h4>Whats New In This Release</h4>
+		<h6>In this version I've added a feature submission page to allow people to post things they would like to see integrated into the application, as well as this i've fixed a few bugs.</h6>
+	</div>
+</div>
