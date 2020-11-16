@@ -15,7 +15,7 @@ link: https://github.com/RobertWildgoose/RandomUserLib
 
 <div class="post-heading">
 	<div class="post-image-container">
-		<img class="project-logo" src="{{ site.baseurl }}/img/projects/ARMonsters.jpg"/>
+		<img class="project-logo" src="{{ site.baseurl }}/img/projects/RandomUserGenerator.jpg"/>
 	</div>
 	<div class="post-bio-container">
 		<h2>What Is It and How Can I Use It</h2>
