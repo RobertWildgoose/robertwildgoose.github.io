@@ -6,13 +6,13 @@ type: MobileApp
 layout: post
 avatar: "img/authors/robertwildgoose.png"
 class: "devicon-swift-plain-wordmark colored"
-image: "https://pbs.twimg.com/media/EQ7T6XCXUAEmShg?format=jpg&name=medium"
+image: "/img/projects/morsed_imessage.jpg"
 date:   2020-03-03 12:12:12
 link: https://apps.apple.com/us/app/id1469132515
 ---
 <div class="post-heading">
 	<div class="post-image-container">
-		<img class="project-logo" src="https://pbs.twimg.com/media/EQ7T6XCXUAEmShg?format=jpg&name=medium"/>
+		<img class="project-logo" src="/img/projects/morsed_imessage.jpg"/>
 	</div>
 	<div class="post-bio-container">
 		<h4>Version 1.6.1</h4>
