@@ -6,8 +6,8 @@
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Mon, 16 Nov 2020 09:50:51 +0000</pubDate>
-        <lastBuildDate>Mon, 16 Nov 2020 09:50:51 +0000</lastBuildDate>
+        <pubDate>Mon, 16 Nov 2020 09:53:36 +0000</pubDate>
+        <lastBuildDate>Mon, 16 Nov 2020 09:53:36 +0000</lastBuildDate>
         <generator>Jekyll v4.0.0</generator>
         
         <item>
@@ -114,7 +114,7 @@
             <title>Morsed Mobile App</title>
             <description>&lt;div class=&quot;post-heading&quot;&gt;
 	&lt;div class=&quot;post-image-container&quot;&gt;
-		&lt;img class=&quot;project-logo&quot; src=&quot;/img/projects/morsed_imessage.jpg&quot; /&gt;
+		&lt;img class=&quot;project-logo&quot; src=&quot;/img/projects/morsed_imessage2.jpg&quot; /&gt;
 	&lt;/div&gt;
 	&lt;div class=&quot;post-bio-container&quot;&gt;
 		&lt;h4&gt;Version 1.6.1&lt;/h4&gt;
@@ -134,7 +134,7 @@
             <title>Morsed Mobile App</title>
             <description>&lt;div class=&quot;post-heading&quot;&gt;
 	&lt;div class=&quot;post-image-container&quot;&gt;
-		&lt;img class=&quot;project-logo&quot; src=&quot;https://pbs.twimg.com/media/EQRsOraXYAAk1xv?format=jpg&amp;amp;name=medium&quot; /&gt;
+		&lt;img class=&quot;project-logo&quot; src=&quot;/img/projects/morsed_imessage.jpg&quot; /&gt;
 	&lt;/div&gt;
 	&lt;div class=&quot;post-bio-container&quot;&gt;
 		&lt;h4&gt;Version 1.5.1&lt;/h4&gt;
