@@ -16,7 +16,7 @@ link: https://apps.apple.com/us/app/id1469132515
 		<img class="project-logo" src="{{ site.baseurl }}/img/projects/morsed_push.jpg"/>
 	</div>
 	<div class="post-bio-container">
-		<h4>Version 1.9.3(Current Live Version)</h4>
+		<h4>Version 1.9.3</h4>
 		<h4>Whats New In This Release</h4>
 		<h6>This release contains bug fixes as well as push notification integration.</h6>
 	</div>
