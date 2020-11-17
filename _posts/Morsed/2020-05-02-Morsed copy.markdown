@@ -7,7 +7,7 @@ layout: post
 avatar: "img/authors/robertwildgoose.png"
 class: "devicon-swift-plain-wordmark colored"
 image: "img/projects/morsed_international.jpg"
-date:   2020-17-11 12:12:12
+date:   2020-11-11 12:12:12
 link: https://apps.apple.com/us/app/id1469132515
 ---
 
