@@ -4,9 +4,9 @@ layout: post
 subtitle: "A C# Library"
 author: "Robert Wildgoose"
 avatar: "img/authors/robertwildgoose.png"
-image: "img/projects/UKCrimeDataC.jpg"
+image: "img/projects/UKCrimeDataCSharp.jpg"
 class: "devicon-csharp-plain colored"
-date:   2019-11-11 12:12:12
+date:   2020-11-11 12:12:12
 link: https://github.com/RobertWildgoose/UKCrimeData
 type: DevelopmentLibrary
 ---

@@ -1,12 +1,12 @@
 ---
 title:  "Random User Generator"
-subtitle: "A C# Library"
+subtitle: "A Swift Library"
 layout: post
 author: "Robert Wildgoose"
 type: DevelopmentLibrary
 avatar: "img/authors/robertwildgoose.png"
 class: "devicon-csharp-plain colored"
-image: "img/projects/RandomUserGenerator.jpg"
+image: "img/projects/RandomUserGeneratorSwift.jpg"
 date:   2020-01-01 12:12:12
 link: https://github.com/RobertWildgoose/RandomUserLib
 ---
