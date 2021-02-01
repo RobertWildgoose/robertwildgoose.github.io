@@ -132,7 +132,7 @@ footer{padding:50px 0}
 
 .background-alt{background:#f2f2f5}
 
-#lead{position:relative;height:50vh;min-height:200px;max-height:400px;background:url(../images/lead-bg.jpg);background-size:cover;padding:15px;overflow:hidden}
+#lead{position:relative;height:60vh;min-height:300px;max-height:500px;background:url(../images/lead-bg.jpg);background-size:cover;padding:15px;overflow:hidden}
 
 #lead-content{position:absolute;z-index:10;top:50%;left:50%;transform:translate(-50%, -50%);text-align:center}
 
