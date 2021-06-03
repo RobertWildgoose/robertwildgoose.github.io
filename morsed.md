@@ -67,7 +67,7 @@ title: "Happy Jekylling!"
           </div>
           <div class="project-info">
             <h3>Version 1.10.1 - 17 Nov 2020</h3>
-            <h3>In this version I have added support for the following languages</h3>
+            <p>In this version I have added support for the following languages</p>
             <ol>
               <li>English</li>
               <li>Thai</li>
@@ -84,7 +84,7 @@ title: "Happy Jekylling!"
           </div>
           <div class="project-info">
             <h3>Version 1.9.3 - 29 Jun 2020</h3>
-            <h3>This release contains bug fixes as well as push notification integration.</h3>
+            <p>This release contains bug fixes as well as push notification integration.</p>
            </div>
         </div>
         <div class="project shadow-large">
@@ -106,7 +106,7 @@ title: "Happy Jekylling!"
           </div>
           <div class="project-info">
             <h3>Version 1.8.1 - 30 March 2020</h3>
-            <h3>This version includes "Audio Morsed" allowing users to type a message and have the translated morse code played back to them, this feature had been requested in reviews multiple times and is only the first addition with Audio Morsed.</h3>
+            <p>This version includes "Audio Morsed" allowing users to type a message and have the translated morse code played back to them, this feature had been requested in reviews multiple times and is only the first addition with Audio Morsed.</p>
            </div>
         </div>
         <div class="project shadow-large">
@@ -115,7 +115,7 @@ title: "Happy Jekylling!"
           </div>
           <div class="project-info">
             <h3>Version 1.7.2 - 24 March 2020</h3>
-            <h3>In this version I've added a feature submission page to allow people to post things they would like to see integrated into the application, as well as this i've fixed a few bugs.</h3>
+            <p>In this version I've added a feature submission page to allow people to post things they would like to see integrated into the application, as well as this i've fixed a few bugs.</p>
            </div>
         </div>
         <div class="project shadow-large">
@@ -124,8 +124,8 @@ title: "Happy Jekylling!"
           </div>
           <div class="project-info">
             <h3>Version 1.7.2 - 28 Feb 2020</h3>
-            <h3>I've cleaned up some bugs as well as adding support for emojis.<br>
-            You can now replace those dots and dashes with emojis to add that extra layer of amusement to your Morsed conversations..</h3>
+            <p>I've cleaned up some bugs as well as adding support for emojis.<br>
+            You can now replace those dots and dashes with emojis to add that extra layer of amusement to your Morsed conversations..</p>
            </div>
         </div>
         <div class="project shadow-large">
@@ -147,7 +147,7 @@ title: "Happy Jekylling!"
           </div>
           <div class="project-info">
             <h3>Version 1.5.2 - 8 Feb 2020</h3>
-            <h3>Fixed a few issues with translation sometimes missing letters.<br>Implemented new iMessage functionality, this allows users to send Morsed messages directly from the messages application.</h3>
+            <p>Fixed a few issues with translation sometimes missing letters.<br>Implemented new iMessage functionality, this allows users to send Morsed messages directly from the messages application.</p>
            </div>
         </div>
         <div class="project shadow-large">
@@ -156,7 +156,7 @@ title: "Happy Jekylling!"
           </div>
           <div class="project-info">
             <h3>Version 1.4.1 - 4 Jan 2020</h3>
-            <h3>In this version I've added a new "Morse Code Guide" allowing users to see all characters side by side translations.</h3>
+            <p>In this version I've added a new "Morse Code Guide" allowing users to see all characters side by side translations.</p>
            </div>
         </div>
         <div class="project shadow-large">
@@ -165,7 +165,7 @@ title: "Happy Jekylling!"
           </div>
           <div class="project-info">
             <h3>Version 1.3.1 - 6 Dec 2019</h3>
-            <h3>In this version, numerical translations have been added as well as some minor bug fixes.</h3>
+            <p>In this version, numerical translations have been added as well as some minor bug fixes.</p>
            </div>
         </div>
         <div class="project shadow-large">
@@ -174,7 +174,7 @@ title: "Happy Jekylling!"
           </div>
           <div class="project-info">
             <h3>Version 1.3.1 - 7 Nov 2019</h3>
-            <h3>This version contains a total redesign of the app, including dark mode.<br>The ability to share translations over other apps is now live allowing you to use your messages in WhatsApp, Facebook Messenger and more.<br>The biggest improvement within this release is the size of the application from the previous 66mb</h3>
+            <p>This version contains a total redesign of the app, including dark mode.<br>The ability to share translations over other apps is now live allowing you to use your messages in WhatsApp, Facebook Messenger and more.<br>The biggest improvement within this release is the size of the application from the previous 66mb</p>
            </div>
         </div>
         <div class="project shadow-large">
@@ -183,7 +183,7 @@ title: "Happy Jekylling!"
           </div>
           <div class="project-info">
             <h3>Version 1.0.1 - 21 June 2019</h3>
-            <h3>Initial App Release</h3>
+            <p>Initial App Release</p>
            </div>
         </div>
         </div>
