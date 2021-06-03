@@ -7,8 +7,8 @@ title: "Happy Jekylling!"
   href="https://rawgit.com/kremalicious/appstorebadges/master/dist/appstorebadges.min.css"
 />
 <div id="mobile_apps" class="background-alt">
-<h2>A free morse code translation application, allowing the user to translate from free text to morse code and morse code to free text as well.</h2>
-<h2>The ability to share translation on other applications.</h2>
+<center><h2>A free morse code translation application, allowing the user to translate from free text to morse code and morse code to free text as well.</h2>
+<h2>The ability to share translation on other applications.</h2></center>
 <br><br><br>
 <center>
     <a class="badge" href="#">
@@ -49,7 +49,7 @@ title: "Happy Jekylling!"
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/ic_logo_2020.png" />
+            <img src="assets/images/ic_logo_2020.jpg" />
           </div>
           <div class="project-info">
             <h3>Version 2.0.1</h3>
@@ -62,7 +62,7 @@ title: "Happy Jekylling!"
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/ic_logo_2020.png" />
+            <img src="assets/images/ic_logo_2020.jpg" />
           </div>
           <div class="project-info">
             <h3>Version 1.10.1</h3>
