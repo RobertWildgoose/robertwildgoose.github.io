@@ -26,7 +26,7 @@ title: "Happy Jekylling!"
     </ul>
 </div>
 
-<div id="mobile_apps" class="background-alt">
+<!-- <div id="mobile_apps" class="background-alt">
     <center><h2 class="heading">iOS Apps</h2></center>
     <div class="container">
         <div class="row">
@@ -44,21 +44,21 @@ title: "Happy Jekylling!"
 		  {% endfor %}
         </div>
     </div>
-</div>
+</div> -->
 <div id="iOS_apps" class="background-alt">
     <center><h2 class="heading">iOS Apps</h2></center>
     <div class="container pt">
         <div class="row mt centered">   
             <div class="col-lg-4">
-                <a class="zoom green" href="morsed.html"><img class="img-responsive" src="assets/img/portfolio/port01.jpg" alt="" />
+                <a class="zoom green" href="morsed.html"><img class="img-responsive" src="assets/images/morsed.jpg" alt="" />
                 <p>Morsed - V2.1.0</p></a>
             </div>
             <div class="col-lg-4">
-                <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port02.jpg" alt="" />
+                <a class="zoom green" href="todaily.html"><img class="img-responsive" src="assets/images/todaily.jpg" alt="" />
                 <p>Todaily - V2.6.0</p></a>
             </div>
             <div class="col-lg-4">
-                <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port03.jpg" alt="" />
+                <a class="zoom green" href="spellthatforme.html"><img class="img-responsive" src="assets/images/spellthatforme.jpg" alt="" />
                 <p>Spell That For Me - V1.0.2</p></a>
             </div>
         </div>
@@ -69,13 +69,13 @@ title: "Happy Jekylling!"
     <div class="container pt">
         <div class="row mt centered">   
             <div class="col-lg-4">
-                <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port04.jpg" alt="" />
+                <a class="zoom green" href="https://robertwildgoose.github.io/assets/AppIconGenerator.zip"><img class="img-responsive" src="assets/images/appicongenerator.jpg" alt="" />
                 <p>App Icon Generator V1.0</p></a>
             </div>
         </div>
     </div>
 </div>
-<div id="code_libraries" class="background-alt">
+<!-- <div id="code_libraries" class="background-alt">
     <center><h2 class="heading">Libraries</h2></center>
     <div class="container pt">
         <div class="row mt centered">   
@@ -99,7 +99,7 @@ title: "Happy Jekylling!"
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <div id="education">
     <h2 class="heading">Education</h2>
     {% for post in site.education %}
