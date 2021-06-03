@@ -18,16 +18,56 @@ title: "Happy Jekylling!"
     <div class="container">
         <div class="row">
     	  {% for post in site.mobile_apps %}
-		  <div class="project shadow-large">
-		  	<div class="project-image">
-		  		<img src="{{post.image}}" />
-		  	</div>
-		  	<div class="project-info">
-		  		<h2>{{post.title}}</h2>
-		  		<p>{{post.content}}</p>
-		  		<a href="{{post.link}}" {{post.downloadable}}>View Project</a>
-		  	</div>
-		  </div>
+		    <div class="project shadow-large">
+		  	  <div class="project-image">
+		  		  <img src="{{post.image}}" />
+		  	  </div>
+		  	  <div class="project-info">
+		  		  <h2>{{post.title}}</h2>
+		  		  <p>{{post.content}}</p>
+		  		  <a href="{{post.link}}" {{post.downloadable}}>View Project</a>
+		  	   </div>
+		    </div>
+        <div class="project shadow-large">
+          <div class="project-image">
+            <img src="{{post.image}}" />
+          </div>
+          <div class="project-info">
+            <h2>{{post.title}}</h2>
+            <p>{{post.content}}</p>
+            <a href="{{post.link}}" {{post.downloadable}}>View Project</a>
+           </div>
+        </div>
+        <div class="project shadow-large">
+          <div class="project-image">
+            <img src="{{post.image}}" />
+          </div>
+          <div class="project-info">
+            <h2>{{post.title}}</h2>
+            <p>{{post.content}}</p>
+            <a href="{{post.link}}" {{post.downloadable}}>View Project</a>
+           </div>
+        </div>
+        <div class="project shadow-large">
+          <div class="project-image">
+            <img src="{{post.image}}" />
+          </div>
+          <div class="project-info">
+            <h2>{{post.title}}</h2>
+            <p>{{post.content}}</p>
+            <a href="{{post.link}}" {{post.downloadable}}>View Project</a>
+           </div>
+        </div>
+        <div class="project shadow-large">
+          <div class="project-image">
+            <img src="{{post.image}}" />
+          </div>
+          <div class="project-info">
+            <h2>{{post.title}}</h2>
+            <p>{{post.content}}</p>
+            <a href="{{post.link}}" {{post.downloadable}}>View Project</a>
+           </div>
+        </div>
 		  {% endfor %}
         </div>
     </div>
