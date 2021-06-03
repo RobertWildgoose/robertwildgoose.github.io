@@ -1,0 +1,66 @@
+I"“	<div id="mobile_apps" class="background-alt">
+    <center><h2 class="heading">Release Notes</h2></center>
+    <a class="badge" href="#">
+      <svg class="badge__icon">[â€¦]</svg>
+      <span class="badge__text">Download on the</span>
+      <span class="badge__storename">App Store</span>
+    </a>
+    <div class="container">
+        <div class="row">
+    	  
+		  <div class="project shadow-large">
+		  	<div class="project-image">
+		  		<img src="assets/images/morsed.jpg" />
+		  	</div>
+		  	<div class="project-info">
+		  		<h2>Morsed</h2>
+		  		<p><h3>Version 1.10.1</h3>
+<h5>In this version I have added support for the following languages ( English, Thai, Mandarin Chinese, Hindi, Spanish, French), as well as fixing some smaller layout issues.</h5>
+</p>
+		  		<a href="https://apps.apple.com/us/app/id1469132515">View Project</a>
+		  	</div>
+		  </div>
+		  
+		  <div class="project shadow-large">
+		  	<div class="project-image">
+		  		<img src="assets/images/appicongenerator.jpg" />
+		  	</div>
+		  	<div class="project-info">
+		  		<h2>App Icon Generator</h2>
+		  		<p><h3>Version 1.0.0</h3>
+<h5>Generates Assets for developers apps.</h5>
+</p>
+		  		<a href="assets/AppIconGenerator.zip" download="">View Project</a>
+		  	</div>
+		  </div>
+		  
+		  <div class="project shadow-large">
+		  	<div class="project-image">
+		  		<img src="assets/images/spellthatforme.jpg" />
+		  	</div>
+		  	<div class="project-info">
+		  		<h2>Spell That For Me</h2>
+		  		<p><h3>Version 1.0.2</h3>
+<h6>Have you ever been on your phone to say the bank and they ask you "Can you spell that for me". You automatically try to come up with words that match the letters in say your name or address. Not any more with Spell that for me you can save your common phrases and then open while in a call to get the phonetics when required.</h6>
+</p>
+		  		<a href="https://apps.apple.com/gb/app/spell-that-for-me/id1541463386">View Project</a>
+		  	</div>
+		  </div>
+		  
+		  <div class="project shadow-large">
+		  	<div class="project-image">
+		  		<img src="assets/images/todaily.jpg" />
+		  	</div>
+		  	<div class="project-info">
+		  		<h2>Todaily</h2>
+		  		<p><h3>Version 2.0</h3>
+<h6><b>Need More Info? - Tasks Now Have Descriptions<br />Need To Know What You Added Last? - Tasks Can Now Be Sorted By Date</b></h6>
+</p>
+		  		<a href="https://apps.apple.com/us/app/todaily/id1547146189">View Project</a>
+		  	</div>
+		  </div>
+		  
+        </div>
+    </div>
+</div>
+:ET
