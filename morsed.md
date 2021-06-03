@@ -18,16 +18,6 @@ title: "Happy Jekylling!"
 </center>
 <br><br><br>
     <div class="container">
-      <h2 class="heading">Screenshots</h2>
-      <div class="row" style="padding:30px;">
-        <img src="assets/images/iphone8.png"/>
-      </div>
-      <div class="row" style="padding:30px;">
-        <img src="assets/images/iphone11.png"/>
-      </div>
-      <div class="row" style="padding:30px;">
-        <img src="assets/images/ipad.png"/>
-      </div>
     </div>
     <div class="container">
     <h2 class="heading">Release Notes</h2>
@@ -171,7 +161,7 @@ title: "Happy Jekylling!"
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/ic_logo_2019.jpg" />
+            <img src="assets/images/ic_logo_2020.jpg" />
           </div>
           <div class="project-info">
             <h3>Version 1.3.1 - 6 Dec 2019</h3>
@@ -180,7 +170,7 @@ title: "Happy Jekylling!"
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/ic_logo_2019.jpg" />
+            <img src="assets/images/ic_logo_2020.jpg" />
           </div>
           <div class="project-info">
             <h3>Version 1.3.1 - 7 Nov 2019</h3>
@@ -189,7 +179,7 @@ title: "Happy Jekylling!"
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/ic_logo_2019.jpg" />
+            <img src="assets/images/ic_logo_2020.jpg" />
           </div>
           <div class="project-info">
             <h3>Version 1.0.1 - 21 June 2019</h3>
