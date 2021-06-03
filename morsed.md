@@ -7,11 +7,10 @@ title: "Happy Jekylling!"
   href="https://rawgit.com/kremalicious/appstorebadges/master/dist/appstorebadges.min.css"
 />
 <div id="mobile_apps" class="background-alt">
-<center><h2>A free morse code translation application, allowing the user to translate from free text to morse code and morse code to free text as well.</h2>
-<h2>The ability to share translation on other applications.</h2></center>
+<center><h4>A free morse code translation application, allowing the user to translate from free text to morse code and morse code to free text as well.The ability to share translation on other applications.</h4></center>
 <br><br><br>
 <center>
-    <a class="badge" href="#">
+    <a class="badge" href="https://apps.apple.com/gb/app/morsed/id1469132515?l=nb">
       <svg class="badge__icon">[…]</svg>
       <span class="badge__text">Download on the</span>
       <span class="badge__storename">App Store</span>
