@@ -1,13 +1,14 @@
 ---
 layout: landingPage
-title: "Happy Jekylling!"
+title: "MORSED"
 ---
 <link
   rel="stylesheet"
   href="https://rawgit.com/kremalicious/appstorebadges/master/dist/appstorebadges.min.css"
 />
 <div id="mobile_apps" class="background-alt">
-<center><h4>A free morse code translation application, allowing the user to translate from free text to morse code and morse code to free text as well.The ability to share translation on other applications.</h4></center>
+<center><h1>Morsed</h1>
+<h4>A free morse code translation application, allowing the user to translate from free text to morse code and morse code to free text as well.The ability to share translation on other applications.</h4></center>
 <br><br><br>
 <center>
     <a class="badge" href="https://apps.apple.com/gb/app/morsed/id1469132515?l=nb">
