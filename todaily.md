@@ -25,7 +25,7 @@ title: "TODAILY"
         <div class="row">
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/todaily2021.png" />
+            <img src="assets/images/todaily_2021.png" />
           </div>
           <div class="project-info">
             <h3>Version 2.6.0 - May 4, 2021</h3>
@@ -38,7 +38,7 @@ title: "TODAILY"
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/todaily2021.png" />
+            <img src="assets/images/todaily_2021.png" />
           </div>
           <div class="project-info">
             <h3>Version 2.5.1 - Apr 27, 2021</h3>
@@ -50,7 +50,7 @@ title: "TODAILY"
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/todaily2021.png" />
+            <img src="assets/images/todaily_2021.png" />
           </div>
           <div class="project-info">
             <h3>Version 2.5.0 - Apr 21, 2021</h3>
@@ -59,7 +59,7 @@ title: "TODAILY"
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/todaily2021.png" />
+           <img src="assets/images/todaily_2021.png" />
           </div>
           <div class="project-info">
             <h3>Version 2.4.0 - Apr 15, 2021</h3>
@@ -73,7 +73,7 @@ title: "TODAILY"
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/todaily2021.png" />
+            <img src="assets/images/todaily_2021.png" />
           </div>
           <div class="project-info">
             <h3>Version 2.3.0 - Mar 31, 2021</h3>
@@ -83,7 +83,7 @@ This release also resolves some issues relating to adding projects.</p>
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/todaily2021.png" />
+            <img src="assets/images/todaily_2021.png" />
           </div>
           <div class="project-info">
             <h3>Version 2.2.2 - Mar 25, 2021</h3>
@@ -95,7 +95,7 @@ This release also resolves some issues relating to adding projects.</p>
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/todaily2021.png" />
+            <img src="assets/images/todaily_2021.png" />
           </div>
           <div class="project-info">
             <h3>Version 2.2.1 - Mar 24, 2021</h3>
@@ -105,7 +105,7 @@ New icons/statuses for priorities</p>
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/todaily2021.png" />
+            <img src="assets/images/todaily_2021.png" />
           </div>
           <div class="project-info">
             <h3>Version 2.1 - Feb 1, 2021</h3>
@@ -117,7 +117,7 @@ New icons/statuses for priorities</p>
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/todaily2021.png" />
+            <img src="assets/images/todaily_2021.png" />
           </div>
           <div class="project-info">
             <h3>Version 2.0 - Jan 16, 2021</h3>
@@ -131,7 +131,7 @@ New icons/statuses for priorities</p>
         </div>
         <div class="project shadow-large">
           <div class="project-image">
-            <img src="assets/images/todaily2021.png" />
+            <img src="assets/images/todaily_2021.png" />
           </div>
           <div class="project-info">
             <h3>Version 1.0 - Jan 10, 2021</h3>
