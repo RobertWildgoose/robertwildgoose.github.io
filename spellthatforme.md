@@ -58,9 +58,7 @@ title: "Happy Jekylling!"
         <div class="col-lg-4">
             <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port03.jpg" alt="" />
             <p>Spell That For Me - V1.0.2</p></a>
-        </div>
-    </div>
-    <div class="row mt centered">   
+        </div> 
         <div class="col-lg-4">
             <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port04.jpg" alt="" />
             <p>App Icon Generator V1.0</p></a>
