@@ -46,31 +46,13 @@ title: "Happy Jekylling!"
     </div>
 </div>
 <div class="container pt">
-    <div class="row mt centered">   
-        <div class="col-lg-4">
-            <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port01.jpg" alt="" />
-            <p>Morsed - V2.1.0</p></a>
-        </div>
-        <div class="col-lg-4">
-            <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port02.jpg" alt="" />
-            <p>Todaily - V2.6.0</p></a>
-        </div>
-        <div class="col-lg-4">
-            <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port03.jpg" alt="" />
-            <p>Spell That For Me - V1.0.2</p></a>
-        </div> 
-        <div class="col-lg-4">
-            <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port04.jpg" alt="" />
-            <p>App Icon Generator V1.0</p></a>
-        </div>
-        <div class="col-lg-4">
-            <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port05.jpg" alt="" /></a>
-            <p>EMPERORS</p>
-        </div>
-        <div class="col-lg-4">
-            <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port06.jpg" alt="" /></a>
-            <p>CHIEFS</p>
-        </div>
+    <div class="row mt centered">
+        {% for post in site.posts %}
+            <div class="col-lg-4">
+                <a class="zoom green" href="{{post.link}}"><img class="img-responsive" src="assets/{{post.image}}" alt="" />
+                <p>{{post.title}}</p></a>
+            </div>
+        {% endfor %}
     </div>
 </div>
 <div id="education">
