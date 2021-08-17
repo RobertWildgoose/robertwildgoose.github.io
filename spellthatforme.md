@@ -49,7 +49,7 @@ title: "Happy Jekylling!"
     <div class="row mt centered">
         {% for post in site.posts %}
             <div class="col-lg-4">
-                <a class="zoom green" href="{{post.link}}"><img class="img-responsive" src="assets/{{post.image}}" alt="" />
+                <a class="zoom green" href="{{ post.url }}"><img class="img-responsive" src="assets/{{post.image}}" alt="" />
                 <p>{{post.title}}</p></a>
             </div>
         {% endfor %}
