@@ -13,7 +13,7 @@ date:   2020-05-27 12:12:12
 <div class="container">
   <div class="row">
     <div class="col-12 col-sm-12 col-md-4">
-    	<img style="width:80%;margin:10px;" src="{{ site.baseurl }}/assets/images/appicongenerator.jpg"/><br>
+    	<center><img style="width:80%;margin:10px;" src="{{ site.baseurl }}/assets/images/appicongenerator.jpg"/></center><br>
     	<a download href="{{ site.baseurl }}/assets/AppIconGenerator.zip"><img style="width:50px;margin:10px;" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/file-zip-alt-512.png">Download Now</a>
     </div>
     <div class="col-12 col-md-12 col-md-8">

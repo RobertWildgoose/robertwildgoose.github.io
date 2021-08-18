@@ -14,7 +14,7 @@ link: https://apps.apple.com/gb/app/spell-that-for-me/id1541463386
 <div class="container">
   <div class="row">
     <div class="col-12 col-sm-12 col-md-4">
-    	<img style="width:80%;margin:10px;" src="{{ site.baseurl }}/assets/images/spellthatforme.jpg"/><br>
+    	<center><img style="width:80%;margin:10px;" src="{{ site.baseurl }}/assets/images/spellthatforme.jpg"/></center><br>
     	<a href="https://apps.apple.com/gb/app/spell-that-for-me/id1541463386"><img style="width:50px;margin:10px;" src="https://img.icons8.com/fluency-systems-regular/452/apple-app-store.png">Install Now</a>
     </div>
     <div class="col-12 col-md-12 col-md-8">
