@@ -1,0 +1,141 @@
+I"S<div style="margin:20px;" id="socials">
+    <center><h2 class="heading">Socials</h2></center>
+    <div class="social-btns" style="padding:10px;">
+    	<center>
+		    <a href="https://github.com/RobertWildgoose" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+		    <a href="https://www.linkedin.com/in/robert-wildgoose-2031a183/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+		    <a href="https://apps.apple.com/bh/developer/robert-wildgoose/id1469132514" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i></a>
+		    <a href="https://www.twitter.com/hewhoiscould" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+		</center>
+	</div>
+</div>
+
+<div id="skills">
+    <h2 class="heading">Skills</h2>
+    <ul>
+    	<li>Swift</li>
+        <li>Mac Development</li>
+        <li>iOS Development</li>
+        <li>C#</li>
+        <li>Xamarin</li>
+    </ul>
+</div>
+
+<div id="mobile_apps" class="background-alt">
+    <center><h2 class="heading">Projects</h2></center>
+    <div class="container-fluid">
+        <div class="container pt">
+            <div class="row mt centered">
+                
+                    <div class="col-lg-4">
+                        <a class="zoom green" href="/2021/01/10/Todaily.html"><img class="img-responsive" src="/assets/images/todaily.jpg" alt="" />
+                        <center><p>Todaily</p></center>
+                        </a>
+                    </div>
+                
+                    <div class="col-lg-4">
+                        <a class="zoom green" href="/2020/11/25/SpellThatForMe.html"><img class="img-responsive" src="/assets/images/spellthatforme.jpg" alt="" />
+                        <center><p>Spell That For Me</p></center>
+                        </a>
+                    </div>
+                
+                    <div class="col-lg-4">
+                        <a class="zoom green" href="/2020/05/27/AppIconGenerator.html"><img class="img-responsive" src="/images/appicongenerator.jpg" alt="" />
+                        <center><p>App Icon Generator</p></center>
+                        </a>
+                    </div>
+                
+                    <div class="col-lg-4">
+                        <a class="zoom green" href="/2019/05/02/Morsed.html"><img class="img-responsive" src="/assets/images/morsed.jpg" alt="" />
+                        <center><p>Morsed</p></center>
+                        </a>
+                    </div>
+                
+                    <div class="col-lg-4">
+                        <a class="zoom green" href="/2019/04/26/ARMonsters.html"><img class="img-responsive" src="/img/projects/ARMonsters.jpg" alt="" />
+                        <center><p>AR Monsters</p></center>
+                        </a>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+<div id="iOS_apps" class="background-alt">
+    <center><h2 class="heading">iOS Apps</h2></center>
+    <div class="container pt">
+        <div class="row mt centered">   
+            <div class="col-lg-4">
+                <a class="zoom green" href="morsed.html"><img class="img-responsive" src="assets/images/morsed.jpg" alt="" />
+                <p>Morsed - V2.1.0</p></a>
+            </div>
+            <div class="col-lg-4">
+                <a class="zoom green" href="todaily.html"><img class="img-responsive" src="assets/images/todaily.jpg" alt="" />
+                <p>Todaily - V2.6.0</p></a>
+            </div>
+            <div class="col-lg-4">
+                <a class="zoom green" href="spellthatforme.html"><img class="img-responsive" src="assets/images/spellthatforme.jpg" alt="" />
+                <p>Spell That For Me - V1.0.2</p></a>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="mac_apps" class="background-alt">
+    <center><h2 class="heading">Mac Apps</h2></center>
+    <div class="container pt">
+        <div class="row mt centered">   
+            <div class="col-lg-4">
+                <a class="zoom green" href="https://robertwildgoose.github.io/assets/AppIconGenerator.zip"><img class="img-responsive" src="assets/images/appicongenerator.jpg" alt="" />
+                <p>App Icon Generator V1.0</p></a>
+            </div>
+            <div class="col-lg-4">
+                <a class="zoom green"><img class="img-responsive" src="assets/images/grey-square.png" alt="" />
+                <p></p></a>
+            </div>
+            <div class="col-lg-4">
+                <a class="zoom green"><img class="img-responsive" src="assets/images/grey-square.png" alt="" />
+                <p></p></a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- <div id="code_libraries" class="background-alt">
+    <center><h2 class="heading">Libraries</h2></center>
+    <div class="container pt">
+        <div class="row mt centered">   
+            <div class="col-lg-4">
+                <a class="zoom green" href="morsed.html"><img class="img-responsive" src="assets/img/portfolio/port01.jpg" alt="" />
+                <p>Morsed - V2.1.0</p></a>
+            </div>
+            <div class="col-lg-4">
+                <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port02.jpg" alt="" />
+                <p>Todaily - V2.6.0</p></a>
+            </div>
+            <div class="col-lg-4">
+                <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port03.jpg" alt="" />
+                <p>Spell That For Me - V1.0.2</p></a>
+            </div>
+        </div>
+        <div class="row mt centered">   
+            <div class="col-lg-4">
+                <a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port04.jpg" alt="" />
+                <p>App Icon Generator V1.0</p></a>
+            </div>
+        </div>
+    </div>
+</div> -->
+<div id="education">
+    <h2 class="heading">Education</h2>
+    
+		<div class="education-block">
+			<center><img style="width:50px;" src="https://yt3.ggpht.com/ytc/AAUvwniDx0LnQ65n7BFEpALXq0Ym4e3gwWETHYTVMHwpxA=s900-c-k-c0x00ffffff-no-rj" /></center>
+			<center>Xamarin University<br />July 2019 - December 2019</center>
+    	</div>
+    
+		<div class="education-block">
+			<center><img style="width:50px;" src="https://www.wemakescholars.com/admin/uploads/providers/3I6kYHTMmkqPJfeVO2pv3Ud_xdMjPkug.png" /></center>
+			<center>Nottingham Trent University<br />Sept 2014 - Sept 2017</center>
+    	</div>
+    
+</div>
+:ET

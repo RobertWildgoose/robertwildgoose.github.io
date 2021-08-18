@@ -1,0 +1,17 @@
+I"t<div class="container">
+  <div class="row">
+    <div class="col-4 col-sm-4 col-md-4">.col-md-8</div>
+    <div class="col-8 col-md-8 col-md-4">.col-6 .col-md-4</div>
+  </div>
+</div>
+<p>https://cdn4.iconfinder.com/data/icons/small-n-flat/24/file-zip-alt-512.png</p>
+<div class="post-heading">
+	<div class="post-image-container">
+		<img class="project-logo" src="/assets/images/appicongenerator.jpg" />
+	</div>
+	<div class="post-bio-container">
+		<h3>Version 1.2(Current Downloadable Version)</h3>
+	<h5>This version includes a generator for iPhone, iPad and Mac apps as well as providing scaled assets as well.</h5>
+	</div>
+</div>
+:ET

@@ -1,0 +1,64 @@
+I"=<div style="margin:20px;" id="socials">
+    <center><h2 class="heading">Socials</h2></center>
+    <div class="social-btns" style="padding:10px;">
+    	<center>
+		    <a href="https://github.com/RobertWildgoose" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+		    <a href="https://www.linkedin.com/in/robert-wildgoose-2031a183/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+		    <a href="https://apps.apple.com/bh/developer/robert-wildgoose/id1469132514" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i></a>
+		    <a href="https://www.twitter.com/hewhoiscould" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+		</center>
+	</div>
+</div>
+
+<div id="skills">
+    <h2 class="heading">Skills</h2>
+    <ul>
+    	<li>Swift</li>
+        <li>Mac Development</li>
+        <li>iOS Development</li>
+        <li>C#</li>
+        <li>Xamarin</li>
+    </ul>
+</div>
+
+<div id="mobile_apps" class="background-alt">
+    <center><h2 class="heading">Projects</h2></center>
+    <div class="container-fluid">
+        <div class="container pt">
+            <div class="row mt centered">
+                
+                    <div class="col-lg-4">
+                        <a class="zoom green" href="/2021/01/10/Todaily.html"><img class="img-responsive" src="/assets/images/todaily.jpg" alt="" />
+                        <center><p>Todaily</p></center>
+                        </a>
+                    </div>
+                
+                    <div class="col-lg-4">
+                        <a class="zoom green" href="/2020/11/25/SpellThatForMe.html"><img class="img-responsive" src="/assets/images/spellthatforme.jpg" alt="" />
+                        <center><p>Spell That For Me</p></center>
+                        </a>
+                    </div>
+                
+                    <div class="col-lg-4">
+                        <a class="zoom green" href="/2020/05/27/AppIconGenerator.html"><img class="img-responsive" src="/assets/images/appicongenerator.jpg" alt="" />
+                        <center><p>App Icon Generator</p></center>
+                        </a>
+                    </div>
+                
+                    <div class="col-lg-4">
+                        <a class="zoom green" href="/2019/05/02/Morsed.html"><img class="img-responsive" src="/assets/images/morsed.jpg" alt="" />
+                        <center><p>Morsed</p></center>
+                        </a>
+                    </div>
+                
+                    <div class="col-lg-4">
+                        <a class="zoom green" href="/2019/04/26/ARMonsters.html"><img class="img-responsive" src="/assets/images/ARMonsters.jpg" alt="" />
+                        <center><p>AR Monsters</p></center>
+                        </a>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+:ET
