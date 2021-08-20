@@ -9,12 +9,11 @@ image: "assets/images/ARMonsters.jpg"
 type: MobileApp
 date:   2019-04-26 12:12:12
 ---
-
 <div class="container">
   <div class="row">
     <div class="col-12 col-sm-12 col-md-4">
-    	<center><img style="width:80%;margin:10px;" src="{{ site.baseurl }}/assets/images/ARMonsters.jpg"/><center><br>
-    	<a href="https://twitter.com/hashtag/thataintpolywhirl"><img style="width:50px;margin:10px;" src="https://cdn.icon-icons.com/icons2/729/PNG/512/twitter_icon-icons.com_62751.png">View On Twitter</a>
+      <center><img style="width:80%;margin:10px;" src="{{ site.baseurl }}/assets/images/ARMonsters.jpg"/></center><br>
+      <center><a href="https://twitter.com/hashtag/thataintpolywhirl"><img style="width:50px;margin:10px;" src="https://cdn.icon-icons.com/icons2/729/PNG/512/twitter_icon-icons.com_62751.png">Twitter</a></center>
     </div>
     <div class="col-12 col-sm-12 col-md-8">
     	<div style="width:80%;margin:10px;">

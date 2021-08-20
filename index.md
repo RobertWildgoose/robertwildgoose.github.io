@@ -26,30 +26,49 @@ title: "Happy Jekylling!"
     </ul>
 </div>
 
-<div id="mobile_apps">
-    <center><h2 class="heading" style="margin:30px;">Experience</h2></center>
+<div id="mobile_apps" style="margin:20px;">
     <div class="container-fluid">
         <div class="row">
             <div class="col-12 col-sm-12 col-md-12">
-                <center>
-                    <h1>NEXT PLC - Senior Mobile Apps Developer</h1>
-                    <h3>2021 - Present</h3>
-                </center>
+                <center><h2 class="heading" style="margin:30px;">Experience</h2></center>
             </div>
         </div>
         <div class="row">
             <div class="col-12 col-sm-12 col-md-12">
                 <center>
-                    <h1>NEXT PLC - Mobile Apps Developer</h1>
-                    <h3>2017 - 2021</h3>
+                    <h3 class="heading" style="margin:30px;">NEXT PLC</h3>
                 </center>
             </div>
         </div>
         <div class="row">
-            <div class="col-12 col-sm-12 col-md-12">
+            <div class="col-12 col-sm-4 col-md-4">
                 <center>
-                    <h1>NEXT PLC - Trainee Developer</h1>
-                    <h3>2016 - 2017</h3>
+                    <div class="card" style="width: 80%;">
+                        <div class="card-body">
+                        <h3 class="card-title">Senior Mobile Apps Developer</h3>
+                        <h6 class="card-subtitle mb-2 text-muted">2021 - Present</h6>
+                      </div>
+                    </div>
+                </center>
+            </div>
+            <div class="col-12 col-sm-4 col-md-4">
+                <center>
+                    <div class="card" style="width: 80%;">
+                        <div class="card-body">
+                        <h3 class="card-title">Mobile Apps Developer</h3>
+                        <h6 class="card-subtitle mb-2 text-muted">2017 - 2021</h6>
+                      </div>
+                    </div>
+                </center>
+            </div>
+            <div class="col-12 col-sm-4 col-md-4">
+                <center> 
+                <div class="card" style="width: 80%;">
+                    <div class="card-body">
+                    <h3 class="card-title">Trainee Mobile Apps Developer</h3>
+                    <h6 class="card-subtitle mb-2 text-muted">2016 - 2017</h6>
+                  </div>
+                </div>      
                 </center>
             </div>
         </div>

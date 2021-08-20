@@ -19,7 +19,7 @@ link: https://apps.apple.com/us/app/id1469132515
     </div>
     <div class="col-12 col-sm-12 col-md-8">
     	<div style="width:80%;margin:10px;">
-    	<h1>Todaily</h1><br>
+    	<h1>Morsed</h1><br>
     	<h3>A free morse code translation application, allowing the user to translate from free text to morse code and morse code to free text as well.</h3><h3>The ability to share translation on other applications.</h3>
     	<h1>iPhone Screenshots</h1><br>
     	<div style="width:100%;">
