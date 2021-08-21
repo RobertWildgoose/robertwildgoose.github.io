@@ -20,8 +20,9 @@ date:   2020-05-27 12:12:12
     	<div style="width:80%;margin:10px;">
     	<h1>App Icon Generator</h1>
     	<br>
-    	<h3>Have you ever been on your phone to say the bank and they ask you "Can you spell that for me". </h3>
-    	<h3>You automatically try to come up with words that match the letters in say your name or address. Not any more with Spell that for me you can save your common phrases and then open while in a call to get the phonetics when required.</h3>
+    	<h2>Have you ever needed to convert your app icons to the correct sizes and just dont have the time to do so?</h2><br>
+      <center><img style="width:150px;" src="{{ site.baseurl }}/assets/images/AIGScreenshot.png"></center><br>
+    	<h3>This mac application allows you to drag and drop your app icons into the window and have ipad and iphone automatically create the correct sizes.</h3>
     </div>
     </div>
   </div>
