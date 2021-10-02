@@ -6,8 +6,8 @@ twitter: "https://www.twitter.com/hewhoiscould"
 apple: "https://apps.apple.com/bh/developer/robert-wildgoose/id1469132514"
 linkedIn: "https://www.linkedin.com/in/robert-wildgoose-2031a183/"
 github: "https://github.com/RobertWildgoose"
-jobTitle: "Mobile Apps Developer"
+jobTitle: "Senior Mobile Apps Developer"
 collections:
-  - mobile_apps
-  - education
-  - libraries
+  - iphone_apps
+  - mac_apps
+  - innovation

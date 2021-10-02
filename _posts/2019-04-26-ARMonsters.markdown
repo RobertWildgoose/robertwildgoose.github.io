@@ -5,25 +5,34 @@ subtitle: "A Personal Challenge"
 author: "Robert Wildgoose"
 avatar: "img/authors/robertwildgoose.png"
 class: "devicon-swift-plain-wordmark colored"
-image: "assets/images/ARMonsters.jpg"
-type: MobileApp
-date:   2019-04-26 12:12:12
+image: "assets/images/icons/ARMonsters.jpg"
+type: "POC"
+icon: "assets/images/icons/ic_swift.png"
+date: 2019-04-26 12:12:12
 ---
+
 <div class="container">
   <div class="row">
-    <div class="col-12 col-sm-12 col-md-4">
-      <center><img style="width:80%;margin:10px;" src="{{ site.baseurl }}/assets/images/ARMonsters.jpg"/></center><br>
-      <center><a href="https://twitter.com/hashtag/thataintpolywhirl"><img style="width:50px;margin:10px;" src="https://cdn.icon-icons.com/icons2/729/PNG/512/twitter_icon-icons.com_62751.png">Twitter</a></center>
-    </div>
-    <div class="col-12 col-sm-12 col-md-8">
-    	<div style="width:80%;margin:10px;">
-    	<h1>AR Monsters</h1>
-    	<h1>What is it?</h1>
-    	<h3>A Small POC I've made using pokemon cards as image placeholders to add in 3d pokemon models.</h3>
-    	<h1>What could be added?</h1>
-		<h3>I plan to later on implement health bars and showing the pokemon's attacks as pressable buttons.</h3>
-		<blockquote class="twitter-tweet"><p lang="en" dir="ltr">After pushing my self to do something <a href="https://twitter.com/hashtag/arkit?src=hash&amp;ref_src=twsrc%5Etfw">#arkit</a> based I’ve finally got something that I’m happy to put up on here - It’s by no means finished but it’s something I’ve made use of my the daughters Pokemon cards for yeh that’s it they are her cards.......<a href="https://twitter.com/hashtag/thataintpolywhirl?src=hash&amp;ref_src=twsrc%5Etfw">#thataintpolywhirl</a> <a href="https://t.co/im8O4ElIVq">pic.twitter.com/im8O4ElIVq</a></p>&mdash; Robert Wildgoose (@hewhoiscould) <a href="https://twitter.com/hewhoiscould/status/1121890628630196227?ref_src=twsrc%5Etfw">April 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    </div>
-    </div>
+      <div class="col-12 col-sm-12 col-md-12">
+        <center>
+          <h1>AR Monsters Demo</h1>
+          <h3>A Small POC I've made using pokemon cards as image placeholders to add in 3d pokemon models.</h3>
+        </center>
+      </div>
+      <div class="col-12 col-sm-12 col-md-12">
+        <center>
+          <video controls width="20%;">
+              <source src="{{ site.baseurl }}/assets/ArMonsters.mp4"
+                      type="video/mp4">Sorry, your browser doesn't support embedded videos.
+          </video>
+        </center>
+      </div>
   </div>
+  <div class="row">
+      <div class="col-12 col-sm-12 col-md-12">
+        <center>
+          <h1>Future Iterations</h1>
+          <h3>I plan to later on implement health bars and showing the pokemon's attacks as pressable buttons.</h3>
+        </center>
+      </div>
 </div>

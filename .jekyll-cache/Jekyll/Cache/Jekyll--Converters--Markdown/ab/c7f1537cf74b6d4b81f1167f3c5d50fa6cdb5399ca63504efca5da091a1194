@@ -1,0 +1,26 @@
+I"Z<div class="container">
+  <div class="row">
+      <div class="col-12 col-sm-12 col-md-12">
+        <center>
+          <h1>AR Monsters Demo</h1>
+          <h3>A Small POC I've made using pokemon cards as image placeholders to add in 3d pokemon models.</h3>
+        </center>
+      </div>
+      <div class="col-12 col-sm-12 col-md-12">
+        <center>
+          <video controls="" width="50%;">
+              <source src="/assets/ArMonsters.mp4" type="video/mp4" />Sorry, your browser doesn't support embedded videos.
+          </video>
+        </center>
+      </div>
+  </div>
+  <div class="row">
+      <div class="col-12 col-sm-12 col-md-12">
+        <center>
+          <h1>Future Iterations</h1>
+          <h3>I plan to later on implement health bars and showing the pokemon's attacks as pressable buttons.</h3>
+        </center>
+      </div>
+</div>
+</div>
+:ET
