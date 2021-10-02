@@ -1,5 +1,5 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/repo" # the subpath of your site, e.g. /blog
+baseurl: "/robertwildgoose.github.io" # the subpath of your site, e.g. /blog
 title: "Robert Wildgoose" # the name of your site, e.g. ACME Corp.
 copyright: "Copyright &copy; Robert Wildgoose"
 twitter: "https://www.twitter.com/hewhoiscould"
