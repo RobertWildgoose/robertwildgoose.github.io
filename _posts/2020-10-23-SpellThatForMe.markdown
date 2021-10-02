@@ -64,7 +64,7 @@ link: https://apps.apple.com/gb/app/spell-that-for-me/id1541463386
 	</div>
 	<div class="row" style="margin:20px;">
 		<div class="col-2 col-sm-2 col-md-2">
-				<img src="{{ site.baseurl }}/assets/images/icons/spellthatforme.jpg" style="width:100%;">
+				<img src="{{ site.baseurl }}/assets/images/Icons/spellthatforme.jpg" style="width:100%;">
 		</div>
 		<div class="col-10 col-sm-10 col-md-10">
 				<h2>Version 1.0.2 - Feb 20, 2021</h2>
@@ -77,7 +77,7 @@ link: https://apps.apple.com/gb/app/spell-that-for-me/id1541463386
 	<hr>
 	<div class="row" style="margin:20px;">
 		<div class="col-2 col-sm-2 col-md-2">
-				<img src="{{ site.baseurl }}/assets/images/icons/spellthatforme.jpg" style="width:100%;">
+				<img src="{{ site.baseurl }}/assets/images/Icons/spellthatforme.jpg" style="width:100%;">
 		</div>
 		<div class="col-10 col-sm-10 col-md-10">
 				<h2>Version 1.0.0 - Nov 24, 2020</h2>
