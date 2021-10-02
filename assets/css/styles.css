@@ -143,8 +143,8 @@ footer{padding:50px 0}
 
 /*#lead-content h2{color:#9eb3ae;font-weight:500;font-size:2.25em;margin-bottom:15px}*/
 
-#lead-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:rgba(237, 162, 121,0.3);z-index:1;background:url("../images/lead-bg.jpg");}
-
+/*#lead-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:rgba(237, 162, 121,0.3);z-index:1;}
+*/
 #lead-down{position:absolute;left:0;right:0;width:100%;text-align:center;z-index:10;bottom:15px;color:#fff}
 
 #lead-down span{cursor:pointer;display:block;margin:0 auto;width:35px;height:35px;border-radius:50%;border:3px solid #9eb3ae;text-align:center}
