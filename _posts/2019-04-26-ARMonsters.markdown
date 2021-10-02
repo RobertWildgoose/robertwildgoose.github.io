@@ -5,9 +5,9 @@ subtitle: "A Personal Challenge"
 author: "Robert Wildgoose"
 avatar: "img/authors/robertwildgoose.png"
 class: "devicon-swift-plain-wordmark colored"
-image: "assets/images/icons/ARMonsters.jpg"
+image: "assets/images/Icons/ARMonsters.jpg"
 type: "POC"
-icon: "assets/images/icons/ic_swift.png"
+icon: "assets/images/Icons/ic_swift.png"
 date: 2019-04-26 12:12:12
 ---
 

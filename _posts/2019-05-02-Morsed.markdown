@@ -6,10 +6,10 @@ author: "Robert Wildgoose"
 layout: post
 avatar: "img/authors/robertwildgoose.png"
 class: "devicon-swift-plain-wordmark colored"
-image: "assets/images/icons/morsed.jpg"
+image: "assets/images/Icons/morsed.jpg"
 date:   2019-05-02 12:12:12
 downloadable : ""
-icon: "assets/images/icons/ic_swift.png"
+icon: "assets/images/Icons/ic_swift.png"
 link: https://apps.apple.com/us/app/id1469132515
 ---
 <div class="container">

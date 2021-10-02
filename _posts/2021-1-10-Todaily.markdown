@@ -6,10 +6,10 @@ type: "iOS"
 layout: post
 avatar: "img/authors/robertwildgoose.png"
 class: "devicon-swift-plain-wordmark colored"
-image: "assets/images/icons/todaily.jpg"
+image: "assets/images/Icons/todaily.jpg"
 date:   2021-1-10 12:12:12
 downloadable : ""
-icon: "assets/images/icons/ic_swift.png"
+icon: "assets/images/Icons/ic_swift.png"
 link: https://apps.apple.com/us/app/todaily/id1547146189
 ---
 <div class="container">

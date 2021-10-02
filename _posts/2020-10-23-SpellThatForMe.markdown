@@ -6,10 +6,10 @@ type: "iOS"
 layout: post
 avatar: "img/authors/robertwildgoose.png"
 class: "devicon-swift-plain-wordmark colored"
-image: "assets/images/icons/spellthatforme.jpg"
+image: "assets/images/Icons/spellthatforme.jpg"
 date:   2020-11-25 12:12:12
 downloadable : ""
-icon: "assets/images/icons/ic_swift.png"
+icon: "assets/images/Icons/ic_swift.png"
 link: https://apps.apple.com/gb/app/spell-that-for-me/id1541463386
 ---
 <div class="container">

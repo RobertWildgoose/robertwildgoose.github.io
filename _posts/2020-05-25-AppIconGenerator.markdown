@@ -7,9 +7,9 @@ type: "mac"
 link: "/files/AppIconGenerator.zip"
 avatar: "img/authors/robertwildgoose.png"
 class: "devicon-swift-plain-wordmark colored"
-image: "assets/images/icons/appicongenerator.jpg"
+image: "assets/images/Icons/appicongenerator.jpg"
 date:   2020-05-27 12:12:12
-icon: "assets/images/icons/ic_swift.png"
+icon: "assets/images/Icons/ic_swift.png"
 ---
 
 
