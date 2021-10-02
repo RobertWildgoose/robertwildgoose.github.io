@@ -18,7 +18,7 @@ link: https://apps.apple.com/gb/app/spell-that-for-me/id1541463386
 			<center>
 			<h1>Spell That For Me</h1><br>
     	<h3>Have you ever been on your phone to say the bank and they ask you "Can you spell that for me". You automatically try to come up with words that match the letters in say your name or address. Not any more with Spell that for me you can save your common phrases and then open while in a call to get the phonetics when required.</h3>
-			<a href="https://apps.apple.com/us/app/spell-that-for-me/id1541463386"><img style="width:50px;margin:10px;" src="https://img.icons8.com/fluency-systems-regular/452/apple-app-store.png">Install Now</a>
+			<a href="https://apps.apple.com/us/app/spell-that-for-me/id1541463386"><img style="width:50px;margin:10px;" src="https://cdn.worldvectorlogo.com/logos/available-on-the-app-store.svg">Install Now</a>
     	</center>
 		</div>
 	</div>
