@@ -1,9 +1,9 @@
 ---
 title:  App Icon Generator
 layout: post
-subtitle: "A Drag And Drop Generator"
+subtitle: "A Drag And Drop Asset Generator For Mac"
 author: "Robert Wildgoose"
-type: "mac"
+type: "POC"
 link: "/files/AppIconGenerator.zip"
 avatar: "img/authors/robertwildgoose.png"
 class: "devicon-swift-plain-wordmark colored"
@@ -12,26 +12,29 @@ date:   2020-05-27 12:12:12
 icon: "assets/images/Icons/ic_swift.png"
 ---
 
-
 <div class="container">
   <div class="row">
-    <div class="col-12 col-sm-12 col-md-12">
-      <center>
-      <h1>App Icon Generator</h1><br>
-      <h3>Have you ever needed to convert your app icons to the correct sizes and just dont have the time to do so?</h3>
-      <a download href="{{ site.baseurl }}/assets/AppIconGenerator.zip"><img style="width:50px;margin:10px;" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/file-zip-alt-512.png">Download Now</a>
-    </center>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-12 col-sm-12 col-md-12">
-      <center><h3>This mac application allows you to drag and drop your app icons into the window and have ipad and iphone automatically create the correct sizes.</h3></center>
-    </div>
-    <div class="col-12 col-sm-12 col-md-12">
-      <center><h1>Screen Shots</h1></center>
-    </div>
-    <div class="col-12 col-sm-12 col-md-12">
-      <center><a href="{{ site.baseurl }}/assets/images/AIGScreenshot.png"><img style="width:150px;" src="{{ site.baseurl }}/assets/images/AIGScreenshot.png"></a></center>
-    </div>
+      <div class="col-12 col-sm-12 col-md-12">
+        <div class="container" style="margin-top:30px;">
+          <div class="list-group">
+            <div class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+              <div class="d-flex gap-2 w-100 justify-content-between">
+              <div>
+              <h1 class="lead text-muted">App Icon Generator</h1>
+              <hr>
+              <h1 class="lead text-muted">What Is It?</h1>
+              <p class="mb-0 opacity-75">Have you ever needed to convert your app icons to the correct sizes and just dont have the time to do so, this mac app allows you to convert images into the the correct sizes</p>
+              <br>
+              <p class="mb-0 opacity-75">This mac application allows you to drag and drop your app icons into the window and have ipad and iphone automatically create the correct sizes.</p>
+              <h1 class="lead text-muted">Links</h1>
+              <p class="mb-0 opacity-75"><a download href="{{ site.baseurl }}/assets/AppIconGenerator.zip">Download Link</a></p>
+              <h1 class="lead text-muted">Screenshots</h1>
+              <p><a href="{{ site.baseurl }}/assets/images/AIGScreenshot.png"><img style="width:150px;" src="{{ site.baseurl }}/assets/images/AIGScreenshot.png"></a></p>
+              </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
   </div>
 </div>
