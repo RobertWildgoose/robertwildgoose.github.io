@@ -46,8 +46,11 @@ title: "Portfolio"
                       <img src="{{ site.baseurl }}/{{post.image}}" class="bd-placeholder-img card-img-top" width="100%"/>
                     </a>
                     <div class="card-body">
-                      <p class="card-text"><h4>{{post.title}}</h4> <p class="lead text-muted" style="min-height:75px;">{{post.subtitle}}</p></p>
-                      <div class="d-flex justify-content-between align-items-center">
+                      <div class="card-text">
+                        <center>
+                        <h3 class="lead text-muted">{{post.title}}</h3> 
+                        <h5 style="min-height:50px;">{{post.subtitle}}</h5>
+                      </center>
                       </div>
                     </div>
                   </div>
@@ -67,8 +70,11 @@ title: "Portfolio"
                       <img src="{{ site.baseurl }}/{{post.image}}" class="bd-placeholder-img card-img-top" width="100%"/>
                     </a>
                     <div class="card-body">
-                      <p class="card-text"><h4>{{post.title}}</h4> <p class="lead text-muted" style="min-height:75px;">{{post.subtitle}}</p></p>
-                      <div class="d-flex justify-content-between align-items-center">
+                      <div class="card-text">
+                        <center>
+                        <h3 class="lead text-muted">{{post.title}}</h3> 
+                        <h5 style="min-height:50px;">{{post.subtitle}}</h5>
+                      </center>
                       </div>
                     </div>
                   </div>
