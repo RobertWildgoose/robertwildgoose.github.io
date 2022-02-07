@@ -3,7 +3,11 @@ layout: default
 title: "Portfolio"
 ---
 <div class="album py-5 bg-light">
-        <div class="row"><center><h1 style="margin:10px;">Experiance</h1></center></div>
+        <div class="row">
+          <center>
+            <h1 style="margin:10px;">Experience</h1>
+          </center>
+        </div>
         <div class="container">
             <div class="list-group">
                 <a class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
