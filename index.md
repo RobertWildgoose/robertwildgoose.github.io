@@ -2,89 +2,97 @@
 layout: default
 title: "Portfolio"
 ---
-<div class="album py-5 bg-light">
-        <div class="row">
-          <center>
-            <h1 style="margin:10px;">Experience</h1>
-          </center>
+  <div class="container-fluid">
+    <div class="row title_header">
+      <center>
+        <h1>Work Experience</h1>
+      </center>
+    </div>
+    <div class="row work_experience">
+      <div class="col-4 col-md-4 col-sm-12">
+        <center>
+          <h3 class="work_title">Senior Mobile Apps Developer</h3>
+          <h5>Next Technology</h5>
+          <p class="mb-0 opacity-75">Jul 2021 - Present</p>
+        </center>
+      </div>
+      <div class="col-4 col-md-4 col-sm-12"> 
+        <center>
+          <h3 class="work_title">Mobile Apps Developer</h3>
+          <h5>Next Technology</h5>
+          <p class="mb-0 opacity-75">Aug 2017 – Jul 2021</p>
+        </center>
+      </div>
+      <div class="col-4 col-md-4 col-sm-12">
+        <center>
+          <h3 class="work_title">Trainee Mobile Apps Developer</h3>
+          <h5>Next Technology</h5>
+          <p class="mb-0 opacity-75">Jul 2016 – Aug 2017</p>
+        </center>
+      </div>
+    </div>
+    <div class="row title_header">
+      <center>
+        <hr>
+        <h1>iOS Applications</h1>
+      </center>
+    </div>
+    <div class="row work_experience">
+      {% for post in site.posts %}
+        {% if(post.type == "iOS") %}
+        <div class="col-4 col-md-4 col-sm-12">
+          <a href="{{site.baseurl}}{{ post.url }}" style="color: black;">
+            <center>
+              <img class="app_icon_image" src="{{ site.baseurl }}/{{post.image}}">
+              <h3 class="work_title">{{post.title}}</h3>
+              <h5>{{post.subtitle}}</h5>
+            </center>
+          </a>
         </div>
-        <div class="container">
-            <div class="list-group">
-                <a class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
-                <div class="d-flex gap-2 w-100 justify-content-between">
-                      <div>
-                        <h3 class="mb-0">Senior Mobile Apps Developer</h3>
-                        <p class="mb-0 opacity-75">Next Technology.</p>
-                      </div>
-                      <small class="opacity-50 text-nowrap">Jul 2021 - Present</small>
-                    </div>
-                  </a>
-                  <a class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
-                    <div class="d-flex gap-2 w-100 justify-content-between">
-                      <div>
-                        <h3 class="mb-0">Mobile Apps Developer</h3>
-                        <p class="mb-0 opacity-75">Next Technology.</p>
-                      </div>
-                      <small class="opacity-50 text-nowrap">Aug 2017 – Jul 2021</small>
-                    </div>
-                  </a>
-                  <a class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
-                    <div class="d-flex gap-2 w-100 justify-content-between">
-                      <div>
-                        <h3 class="mb-0">Trainee Mobile Apps Developer</h3>
-                        <p class="mb-0 opacity-75">Next Technology.</p>
-                      </div>
-                      <small class="opacity-50 text-nowrap">Jul 2016 – Aug 2017</small>
-                    </div>
-                  </a>
-                </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="row title_header">
+      <center>
+        <hr>
+        <h1>Mac Applications</h1>
+      </center>
+    </div>
+     <div class="row work_experience">
+      {% for post in site.posts %}
+        {% if(post.type == "Mac") %}
+        <div class="col-4 col-md-4 col-sm-12">
+          <a href="{{site.baseurl}}{{ post.url }}" style="color: black;">
+            <center>
+              <img class="app_icon_image" src="{{ site.baseurl }}/{{post.image}}">
+              <h3 class="work_title">{{post.title}}</h3>
+              <h5>{{post.subtitle}}</h5>
+            </center>
+          </a>
         </div>
-        <div class="container">
-            <div class="row"><center><h1 style="margin:30px;">iOS Apps</h1></center></div>
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-            {% for post in site.posts %}
-                {% if(post.type == "iOS") %}
-                <div class="col">
-                  <div class="card shadow-sm">
-                    <a href="{{site.baseurl}}{{ post.url }}" style="color: black;">
-                      <img src="{{ site.baseurl }}/{{post.image}}" class="bd-placeholder-img card-img-top" width="100%"/>
-                    </a>
-                    <div class="card-body">
-                      <div class="card-text">
-                        <center>
-                        <h3 class="lead text-muted">{{post.title}}</h3> 
-                        <h5 style="min-height:50px;">{{post.subtitle}}</h5>
-                      </center>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                {% endif %}
-            {% endfor %}
-            </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="row title_header">
+      <center>
+        <hr>
+        <h1>Innovation Items</h1>
+      </center>
+    </div>
+    <div class="row work_experience">
+      {% for post in site.posts %}
+        {% if(post.type == "POC") %}
+        <div class="col-4 col-md-4 col-sm-12">
+          <a href="{{site.baseurl}}{{ post.url }}" style="color: black;">
+            <center>
+              <img class="app_icon_image" src="{{ site.baseurl }}/{{post.image}}">
+              <h3 class="work_title">{{post.title}}</h3>
+              <h5>{{post.subtitle}}</h5>
+            </center>
+          </a>
         </div>
-        <div class="container">
-            <div class="row"><center><h1 style="margin:30px;">Proof Of Concepts</h1></center></div>
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-            {% for post in site.posts %}
-                {% if(post.type == "POC") %}
-                <div class="col">
-                  <div class="card shadow-sm">
-                    <a href="{{site.baseurl}}{{ post.url }}" style="color: black;">
-                      <img src="{{ site.baseurl }}/{{post.image}}" class="bd-placeholder-img card-img-top" width="100%"/>
-                    </a>
-                    <div class="card-body">
-                      <div class="card-text">
-                        <center>
-                        <h3 class="lead text-muted">{{post.title}}</h3> 
-                        <h5 style="min-height:50px;">{{post.subtitle}}</h5>
-                      </center>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                {% endif %}
-            {% endfor %}
-            </div>
-        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
 
