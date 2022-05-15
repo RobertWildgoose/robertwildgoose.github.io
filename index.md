@@ -46,6 +46,7 @@ title: "Portfolio"
               <img class="app_icon_image" src="{{ site.baseurl }}/{{post.image}}">
               <h3 class="work_title">{{post.title}}</h3>
               <h5>{{post.subtitle}}</h5>
+              <h6>{{post.currentVersion}}</h6>
             </center>
           </a>
         </div>

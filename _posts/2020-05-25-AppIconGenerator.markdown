@@ -4,6 +4,7 @@ layout: post
 subtitle: "A Drag And Drop Asset Generator For Mac"
 author: "Robert Wildgoose"
 type: "Mac"
+currentVersion: "1.0.0"
 link: "/files/AppIconGenerator.zip"
 avatar: "img/authors/robertwildgoose.png"
 class: "devicon-swift-plain-wordmark colored"

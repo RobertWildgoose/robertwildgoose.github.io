@@ -4,6 +4,7 @@ subtitle: "An iOS Application To Log Project Progress and Tasks"
 author: "Robert Wildgoose"
 type: "iOS"
 layout: post
+currentVersion: "2.6.0"
 avatar: "img/authors/robertwildgoose.png"
 class: "devicon-swift-plain-wordmark colored"
 image: "assets/images/Icons/todaily.jpg"
@@ -21,7 +22,7 @@ link: https://apps.apple.com/us/app/todaily/id1547146189
     <div class="row title_header">
       <center>
         <h3>What Is It?</h3>
-        <h5>A Swift iOS ToDo list app allowing the user to create projects and tasks and monitor the progress on each one.</h5>
+        <h6>A Swift iOS ToDo list app allowing the user to create projects and tasks and monitor the progress on each one.</h6>
       </center>
     </div>
     <div class="row">
