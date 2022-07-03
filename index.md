@@ -53,7 +53,7 @@ title: "Portfolio"
   <div class="row work_experience">
     {% for post in site.posts %}
       {% if(post.type == "Application") %}
-      <div class="col-4 col-md-6 col-sm-12 post-container">
+      <div class="col-12 col-md-6 col-sm-12 post-container">
         <div class="border rounded overflow-hidden shadow-sm">
           <div class="row">
             <div class="col-4 col-md-4 col-sm-4"><img src="{{ site.baseurl }}/{{post.image}}" class="post-image"></div>
