@@ -2,7 +2,7 @@
 title:  "Spell That For Me"
 subtitle: "A Phonetic Alphabet Translator App."
 author: "Robert Wildgoose"
-type: "iOS"
+type: "Application"
 layout: post
 currentVersion: "1.0.2"
 avatar: "img/authors/robertwildgoose.png"
@@ -13,33 +13,18 @@ downloadable : ""
 icon: "assets/images/Icons/ic_swift.png"
 link: https://apps.apple.com/gb/app/spell-that-for-me/id1541463386
 ---
+<div class="px-4 py-5 my-5 text-center">
+  <img class="d-block mx-auto mb-4" src="{{ site.baseurl }}/assets/images/Icons/spellthatforme.jpg" alt="" width="200" height="200">
+  <h1 class="display-5 fw-bold">Spell That For Me</h1>
+  <div class="col-lg-6 mx-auto">
+    <h3>What Is It?</h3>
+    <p class="lead mb-4">Have you ever been on your phone to say the bank and they ask you "Can you spell that for me". You automatically try to come up with words that match the letters in say your name or address. Not any more with Spell that for me you can save your common phrases and then open while in a call to get the phonetics when required.</p>
+    <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+      <a href="https://apps.apple.com/gb/app/spell-that-for-me/id1541463386"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">View In App Store</button></a>
+    </div>
+  </div>
+</div>
 <div class="container-fluid">
-    <div class="row title_header">
-      <center>
-        <h1>Spell That For Me</h1>
-      </center>
-    </div>
-    <div class="row title_header">
-      <center>
-        <h3>What Is It?</h3>
-        <h6>Have you ever been on your phone to say the bank and they ask you "Can you spell that for me". You automatically try to come up with words that match the letters in say your name or address. Not any more with Spell that for me you can save your common phrases and then open while in a call to get the phonetics when required.</h6>
-      </center>
-    </div>
-    <div class="row title_header">
-      <center>
-        <hr>
-      </center>
-    </div>
-    <div class="row title_header">
-      <center>
-        <h3><a href="https://apps.apple.com/gb/app/spell-that-for-me/id1541463386">View In App Store</a></h3>
-      </center>
-    </div>
-    <div class="row title_header">
-      <center>
-        <hr>
-      </center>
-    </div>
     <div class="row title_header">
       <center>
         <h1>iPhone Screenshots</h1>
@@ -97,7 +82,6 @@ link: https://apps.apple.com/gb/app/spell-that-for-me/id1541463386
 	<div class="row">
 		<div class="col-12 col-sm-12 col-md-12">
 			<div class="container" style="margin-top:30px;">
-				<hr>
 				<div class="list-group">
 					<a class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
 						<div class="d-flex gap-2 w-100 justify-content-between">

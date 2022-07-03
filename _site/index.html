@@ -14,208 +14,179 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@300&family=Prompt:wght@600&display=swap" rel="stylesheet">
   <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-  <style>
-    body
-    {
-      background-color: #f5e6d3;
-    }
-    .page_container
-    {
-      width:90%;
-      margin-left:5%;
-      margin-right:5%;
-    }
-    .work_experience
-    {
-      margin-top:20px;
-      margin-bottom:20px;
-    }
-    .title_header
-    {
-      margin-top:20px;
-      margin-bottom:20px;
-    }
-    .title_header h1
-    {
-      margin-top:20px;
-      margin-bottom:20px;
-      font-family: 'Prompt', sans-serif;
-    }
-    .title_header h3
-    {
-      margin-top:20px;
-      margin-bottom:20px;
-      font-family: 'League Spartan', sans-serif;
-    }
-    .work_title{
-      margin-top:10px;
-      margin-bottom:10px;
-    }
-    .app_icon_image
-    {
-      width: 90%;
-      margin-left:5%;
-      margin-right:5%;
-    }
-
-    hr {
-    height: 6px;
-      border: 2px;
-  }
-  </style>
   </head>
   <body>
+    <style>
+      .nav-item a{color: black;}
+      .title_header{margin-top: 50px;margin-bottom: 50px;}
+      .post-container{padding: 20px;}
+      .post-image{width: 100%;}
+    </style>
 <main>
-<div class="page_container">
-  <div class="row title_header">
-      <center>
-        <a style="text-decoration: none;color:black;" href="https://robertwildgoose.github.io/"><h1>Robert Wildgoose</h1></a>
-        <h3>Portfolio Of Work</h3>
-        <p>
-        <a style="text-decoration: none;margin:10px; color:black;" href="https://github.com/RobertWildgoose"><i class="icon-github icon-3x"></i></a>
-        <a style="text-decoration: none;margin:10px; color:black;" href="https://apps.apple.com/bh/developer/robert-wildgoose/id1469132514"><i class="icon-apple icon-3x"></i></a>
-        <a style="text-decoration: none;margin:10px; color:black;" href="https://www.linkedin.com/in/robert-wildgoose-2031a183/"><i class="icon-linkedin icon-3x"></i></a>
-      </p>
-      </center>
-      <hr>
-    </div>
-    <div class="container-fluid">
+<div class="container">
+  <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+    <a href="https://robertwildgoose.github.io/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+      <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+      <span class="fs-4">Robert Wildgoose - Portfolio Of Work</span>
+    </a>
+    <ul class="nav nav-pills">
+      <li class="nav-item"><a style="text-decoration: none;margin:10px; color:black;" href="https://github.com/RobertWildgoose"><i class="icon-github icon-2x"></i></a></li>
+      <li class="nav-item"><a style="text-decoration: none;margin:10px; color:black;" href="https://apps.apple.com/bh/developer/robert-wildgoose/id1469132514"><i class="icon-apple icon-2x"></i></a></li>
+      <li class="nav-item"><a style="text-decoration: none;margin:10px; color:black;" href="https://www.linkedin.com/in/robert-wildgoose-2031a183/"><i class="icon-linkedin icon-2x"></i></a></li>
+    </ul>
+  </header>
+</div>
+<div class="container py-5">
     <div class="row title_header">
-      <center>
-        <h1>Work Experience</h1>
-      </center>
-    </div>
-    <div class="row work_experience">
-      <div class="col-4 col-md-4 col-sm-12">
-        <center>
-          <h3 class="work_title">Senior Mobile Apps Developer</h3>
-          <h5>Next Technology</h5>
-          <p class="mb-0 opacity-75">Jul 2021 - Present</p>
-        </center>
-      </div>
-      <div class="col-4 col-md-4 col-sm-12"> 
-        <center>
-          <h3 class="work_title">Mobile Apps Developer</h3>
-          <h5>Next Technology</h5>
-          <p class="mb-0 opacity-75">Aug 2017 – Jul 2021</p>
-        </center>
-      </div>
-      <div class="col-4 col-md-4 col-sm-12">
-        <center>
-          <h3 class="work_title">Trainee Mobile Apps Developer</h3>
-          <h5>Next Technology</h5>
-          <p class="mb-0 opacity-75">Jul 2016 – Aug 2017</p>
-        </center>
+    <center>
+      <h1>Work Experience</h1>
+    </center>
+  </div>
+<div class="row">
+    <div class="col-12 col-md-12 col-sm-12">
+      <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+    <div class="col">
+      <div class="card mb-4 rounded-3 shadow-sm border-primary">
+        <div class="card-header py-3 text-white bg-primary border-primary">
+          <h4 class="my-0 fw-normal">Senior Mobile Apps Developer</h4>
+        </div>
+        <div class="card-body">
+          <h3 class="card-title pricing-card-title">Next Technology</h3>
+          <h4><small class="text-muted fw-light">Jul 2021 - Present</small></h4>
+        </div>
       </div>
     </div>
-    <div class="row title_header">
-      <center>
-        <hr />
-        <h1>iOS Applications</h1>
-      </center>
-    </div>
-    <div class="row work_experience">
-      
-        
-        <div class="col-4 col-md-4 col-sm-12">
-          <a href="/2021/01/10/Todaily.html" style="color: black;">
-            <center>
-              <img class="app_icon_image" src="/assets/images/Icons/todaily.jpg" />
-              <h3 class="work_title">Todaily</h3>
-              <h5>An iOS Application To Log Project Progress and Tasks</h5>
-            </center>
-          </a>
+    <div class="col">
+      <div class="card mb-4 rounded-3 shadow-sm">
+        <div class="card-header py-3 text-black">
+          <h4 class="my-0 fw-normal">Mobile Apps Developer</h4>
         </div>
-        
-      
-        
-        <div class="col-4 col-md-4 col-sm-12">
-          <a href="/2020/11/25/SpellThatForMe.html" style="color: black;">
-            <center>
-              <img class="app_icon_image" src="/assets/images/Icons/spellthatforme.jpg" />
-              <h3 class="work_title">Spell That For Me</h3>
-              <h5>A Phonetic Alphabet Translator App.</h5>
-            </center>
-          </a>
+        <div class="card-body">
+          <h3 class="card-title pricing-card-title">Next Technology</h3>
+          <h4><small class="text-muted fw-light">Aug 2017 – Jul 2021</small></h4>
         </div>
-        
-      
-        
-      
-        
-        <div class="col-4 col-md-4 col-sm-12">
-          <a href="/2019/05/02/Morsed.html" style="color: black;">
-            <center>
-              <img class="app_icon_image" src="/assets/images/Icons/morsed.jpg" />
-              <h3 class="work_title">Morsed</h3>
-              <h5>An iOS Application To Translate Morse Code</h5>
-            </center>
-          </a>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card mb-4 rounded-3 shadow-sm">
+        <div class="card-header py-3 text-black">
+          <h4 class="my-0 fw-normal">Trainee Mobile Apps Developer</h4>
         </div>
-        
-      
-        
-      
-    </div>
-    <div class="row title_header">
-      <center>
-        <hr />
-        <h1>Mac Applications</h1>
-      </center>
-    </div>
-     <div class="row work_experience">
-      
-        
-      
-        
-      
-        
-        <div class="col-4 col-md-4 col-sm-12">
-          <a href="/2020/05/27/AppIconGenerator.html" style="color: black;">
-            <center>
-              <img class="app_icon_image" src="/assets/images/Icons/appicongenerator.jpg" />
-              <h3 class="work_title">App Icon Generator</h3>
-              <h5>A Drag And Drop Asset Generator For Mac</h5>
-            </center>
-          </a>
+        <div class="card-body">
+          <h3 class="card-title pricing-card-title">Next Technology</h3>
+          <h4><small class="text-muted fw-light">Jul 2017 – Aug 2018</small></h4>
         </div>
-        
-      
-        
-      
-        
-      
-    </div>
-    <div class="row title_header">
-      <center>
-        <hr />
-        <h1>Innovation Items</h1>
-      </center>
-    </div>
-    <div class="row work_experience">
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-        <div class="col-4 col-md-4 col-sm-12">
-          <a href="/2019/04/26/ARMonsters.html" style="color: black;">
-            <center>
-              <img class="app_icon_image" src="/assets/images/Icons/ARMonsters.jpg" />
-              <h3 class="work_title">AR Monsters</h3>
-              <h5>An AR Application To Show Image Detection</h5>
-            </center>
-          </a>
-        </div>
-        
-      
+      </div>
     </div>
   </div>
+     </div>
+  <div class="row title_header">
+    <center>
+      <h1>Portfolio Items</h1>
+    </center>
+  </div>
+  <div class="row work_experience">
+    
+      
+      <div class="col-4 col-md-6 col-sm-12 post-container">
+        <div class="border rounded overflow-hidden shadow-sm">
+          <div class="row">
+            <div class="col-4 col-md-4 col-sm-4"><img src="/assets/images/Icons/todaily.jpg" class="post-image" /></div>
+            <div class="col-8 col-md-8 col-sm-8 post-container">
+              <h3 class="mb-0">Todaily</h3>
+              <div class="mb-1 text-muted">2.6.0</div>
+              <p class="card-text mb-auto">An iOS Application To Log Project Progress and Tasks</p>
+              <br />
+              <a href="/2021/01/10/Todaily.html"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">More Info</button></a>
+              
+                 <a href="https://apps.apple.com/us/app/todaily/id1547146189"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">View App</button></a>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    
+      
+      <div class="col-4 col-md-6 col-sm-12 post-container">
+        <div class="border rounded overflow-hidden shadow-sm">
+          <div class="row">
+            <div class="col-4 col-md-4 col-sm-4"><img src="/assets/images/Icons/spellthatforme.jpg" class="post-image" /></div>
+            <div class="col-8 col-md-8 col-sm-8 post-container">
+              <h3 class="mb-0">Spell That For Me</h3>
+              <div class="mb-1 text-muted">1.0.2</div>
+              <p class="card-text mb-auto">A Phonetic Alphabet Translator App.</p>
+              <br />
+              <a href="/2020/11/25/SpellThatForMe.html"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">More Info</button></a>
+              
+                 <a href="https://apps.apple.com/gb/app/spell-that-for-me/id1541463386"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">View App</button></a>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    
+      
+      <div class="col-4 col-md-6 col-sm-12 post-container">
+        <div class="border rounded overflow-hidden shadow-sm">
+          <div class="row">
+            <div class="col-4 col-md-4 col-sm-4"><img src="/assets/images/Icons/appicongenerator.jpg" class="post-image" /></div>
+            <div class="col-8 col-md-8 col-sm-8 post-container">
+              <h3 class="mb-0">App Icon Generator</h3>
+              <div class="mb-1 text-muted">1.0.0</div>
+              <p class="card-text mb-auto">A Drag And Drop Asset Generator For Mac</p>
+              <br />
+              <a href="/2020/05/27/AppIconGenerator.html"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">More Info</button></a>
+              
+                 <a href="/assets/AppIconGenerator.zip"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">View App</button></a>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    
+      
+      <div class="col-4 col-md-6 col-sm-12 post-container">
+        <div class="border rounded overflow-hidden shadow-sm">
+          <div class="row">
+            <div class="col-4 col-md-4 col-sm-4"><img src="/assets/images/Icons/morsed.jpg" class="post-image" /></div>
+            <div class="col-8 col-md-8 col-sm-8 post-container">
+              <h3 class="mb-0">Morsed</h3>
+              <div class="mb-1 text-muted">2.6.0</div>
+              <p class="card-text mb-auto">An iOS Application To Translate Morse Code</p>
+              <br />
+              <a href="/2019/05/02/Morsed.html"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">More Info</button></a>
+              
+                 <a href="https://apps.apple.com/us/app/id1469132515"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">View App</button></a>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    
+      
+      <div class="col-4 col-md-6 col-sm-12 post-container">
+        <div class="border rounded overflow-hidden shadow-sm">
+          <div class="row">
+            <div class="col-4 col-md-4 col-sm-4"><img src="/assets/images/Icons/ARMonsters.jpg" class="post-image" /></div>
+            <div class="col-8 col-md-8 col-sm-8 post-container">
+              <h3 class="mb-0">AR Monsters</h3>
+              <div class="mb-1 text-muted"></div>
+              <p class="card-text mb-auto">An AR Application To Show Image Detection</p>
+              <br />
+              <a href="/2019/04/26/ARMonsters.html"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">More Info</button></a>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    
+  </div>
+</div>
 
 
 <hr>

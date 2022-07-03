@@ -2,7 +2,7 @@
 title:  "Todaily"
 subtitle: "An iOS Application To Log Project Progress and Tasks"
 author: "Robert Wildgoose"
-type: "iOS"
+type: "Application"
 layout: post
 currentVersion: "2.6.0"
 avatar: "img/authors/robertwildgoose.png"
@@ -13,33 +13,17 @@ downloadable : ""
 icon: "assets/images/Icons/ic_swift.png"
 link: https://apps.apple.com/us/app/todaily/id1547146189
 ---
+<div class="px-4 py-5 my-5 text-center">
+  <img class="d-block mx-auto mb-4" src="{{ site.baseurl }}/assets/images/Icons/todaily.jpg" alt="" width="200" height="200">
+  <h1 class="display-5 fw-bold">Todaily</h1>
+  <div class="col-lg-6 mx-auto">
+    <p class="lead mb-4">A Swift iOS ToDo list app allowing the user to create projects and tasks and monitor the progress on each one.</p>
+    <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+      <a href="https://apps.apple.com/us/app/todaily/id1547146189"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">View In App Store</button></a>
+    </div>
+  </div>
+</div>
 <div class="container-fluid">
-    <div class="row title_header">
-      <center>
-        <h1>Todaily</h1>
-      </center>
-    </div>
-    <div class="row title_header">
-      <center>
-        <h3>What Is It?</h3>
-        <h6>A Swift iOS ToDo list app allowing the user to create projects and tasks and monitor the progress on each one.</h6>
-      </center>
-    </div>
-    <div class="row">
-      <center>
-        <hr>
-      </center>
-    </div>
-    <div class="row title_header">
-      <center> 
-        <h3><a href="https://apps.apple.com/us/app/todaily/id1547146189">View In App Store</a></h3>
-      </center>
-    </div>
-    <div class="row title_header">
-      <center>
-        <hr>
-      </center>
-    </div>
     <div class="row title_header">
       <center>
         <h3>iPhone Screenshots</h3>

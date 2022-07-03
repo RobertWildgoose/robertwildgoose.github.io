@@ -14,89 +14,40 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@300&family=Prompt:wght@600&display=swap" rel="stylesheet">
   <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-  <style>
-    body
-    {
-      background-color: #f5e6d3;
-    }
-    .page_container
-    {
-      width:90%;
-      margin-left:5%;
-      margin-right:5%;
-    }
-    .work_experience
-    {
-      margin-top:20px;
-      margin-bottom:20px;
-    }
-    .title_header
-    {
-      margin-top:20px;
-      margin-bottom:20px;
-    }
-    .title_header h1
-    {
-      margin-top:20px;
-      margin-bottom:20px;
-      font-family: 'Prompt', sans-serif;
-    }
-    .title_header h3
-    {
-      margin-top:20px;
-      margin-bottom:20px;
-      font-family: 'League Spartan', sans-serif;
-    }
-    .work_title{
-      margin-top:10px;
-      margin-bottom:10px;
-    }
-    .app_icon_image
-    {
-      width: 90%;
-      margin-left:5%;
-      margin-right:5%;
-    }
-
-    hr {
-    height: 6px;
-      border: 2px;
-  }
-  </style>
   </head>
   <body>
+    <style>
+      .nav-item a{color: black;}
+      .title_header{margin-top: 50px;margin-bottom: 50px;}
+      .post-container{padding: 20px;}
+      .post-image{width: 100%;}
+    </style>
 <main>
-<div class="page_container">
-  <div class="row title_header">
-      <center>
-        <a style="text-decoration: none;color:black;" href="https://robertwildgoose.github.io/"><h1>Robert Wildgoose</h1></a>
-        <h3>Portfolio Of Work</h3>
-        <p>
-        <a style="text-decoration: none;margin:10px; color:black;" href="https://github.com/RobertWildgoose"><i class="icon-github icon-3x"></i></a>
-        <a style="text-decoration: none;margin:10px; color:black;" href="https://apps.apple.com/bh/developer/robert-wildgoose/id1469132514"><i class="icon-apple icon-3x"></i></a>
-        <a style="text-decoration: none;margin:10px; color:black;" href="https://www.linkedin.com/in/robert-wildgoose-2031a183/"><i class="icon-linkedin icon-3x"></i></a>
-      </p>
-      </center>
-      <hr>
+<div class="container">
+  <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+    <a href="https://robertwildgoose.github.io/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+      <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+      <span class="fs-4">Robert Wildgoose - Portfolio Of Work</span>
+    </a>
+    <ul class="nav nav-pills">
+      <li class="nav-item"><a style="text-decoration: none;margin:10px; color:black;" href="https://github.com/RobertWildgoose"><i class="icon-github icon-2x"></i></a></li>
+      <li class="nav-item"><a style="text-decoration: none;margin:10px; color:black;" href="https://apps.apple.com/bh/developer/robert-wildgoose/id1469132514"><i class="icon-apple icon-2x"></i></a></li>
+      <li class="nav-item"><a style="text-decoration: none;margin:10px; color:black;" href="https://www.linkedin.com/in/robert-wildgoose-2031a183/"><i class="icon-linkedin icon-2x"></i></a></li>
+    </ul>
+  </header>
+</div>
+<div class="container py-5">
+    <div class="px-4 py-5 my-5 text-center">
+  <img class="d-block mx-auto mb-4" src="/assets/images/Icons/appicongenerator.jpg" alt="" width="200" height="200" />
+  <h1 class="display-5 fw-bold">App Icon Generator</h1>
+  <div class="col-lg-6 mx-auto">
+    <p class="lead mb-4">Have you ever needed to convert your app icons to the correct sizes and just dont have the time to do so, this mac app allows you to convert images into the the correct sizes<br /><br />This mac application allows you to drag and drop your app icons into the window and have ipad and iphone automatically create the correct sizes.</p>
+    <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+      <a download="" href="/assets/AppIconGenerator.zip"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">Download</button></a>
     </div>
-    <div class="container-fluid">
-    <div class="row title_header">
-      <center>
-        <h1>App Icon Generator</h1>
-      </center>
-    </div>
-    <div class="row title_header">
-      <center>
-        <h1>What Is It?</h1>
-        <h3>Have you ever needed to convert your app icons to the correct sizes and just dont have the time to do so, this mac app allows you to convert images into the the correct sizes</h3>
-        <h3>This mac application allows you to drag and drop your app icons into the window and have ipad and iphone automatically create the correct sizes.</h3>
-      </center>
-    </div>
-    <div class="row title_header">
-      <center>
-        <h3><a download="" href="/assets/AppIconGenerator.zip">Download Link</a></h3>
-      </center>
-    </div>
+  </div>
+</div>
+<div class="container-fluid">
     <div class="row title_header">
       <center>
         <a href="/assets/images/AIGScreenshot.png"><img style="width:150px;" src="/assets/images/AIGScreenshot.png" /></a>

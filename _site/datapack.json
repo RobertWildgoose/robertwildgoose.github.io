@@ -1,0 +1,45 @@
+{
+	"universities":
+	[
+		{
+			"name":"Abertay University",
+			"town":"Dundee"
+		},
+		{
+			"name":"Aberystwyth University",
+			"town":"Aberystwyth"
+		},
+		{
+			"name":"Anglia Ruskin University",
+			"town":"Cambridge"
+		},
+		{
+			"name":"Arts University Bournemouth",
+			"town":"Poole"
+		},
+		{
+			"name":"Aston University",
+			"town":"Birmingham"
+		},
+		{
+			"name":"Bangor University",
+			"town":"Bangor"
+		},
+		{
+			"name":"Bath Spa University",
+			"town":"Bath"
+		},
+		{
+			"name":"Birkbeck, University of London",
+			"town":"London"
+		},
+		{
+			"name":"Birmingham City University",
+			"town":"Birmingham"
+		},
+		{
+			"name":"Bishop Grosseteste University",
+			"town":"Lincoln"
+		}
+	]
+}
