@@ -62,9 +62,9 @@ title: "Portfolio"
               <div class="mb-1 text-muted">{{post.currentVersion}}</div>
               <p class="card-text mb-auto">{{post.subtitle}}</p>
               <br>
-              <a href="{{site.baseurl}}{{ post.url }}"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">More Info</button></a>
+              <a href="{{site.baseurl}}{{ post.url }}"><button type="button" class="btn btn-primary btn-lg px-4 gap-3 link-button">More Info</button></a>
               {% if post.link != "" %}
-                 <a href="{{ post.link }}"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">View App</button></a>
+                 <a href="{{ post.link }}"><button type="button" class="link-button btn btn-primary btn-lg px-4 gap-3">View App</button></a>
               {% endif %}
             </div>
           </div>
