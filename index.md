@@ -13,11 +13,24 @@ title: "Portfolio"
     <div class="col">
       <div class="card mb-4 rounded-3 shadow-sm border-primary">
         <div class="card-header py-3 text-white bg-primary border-primary">
+          <h4 class="my-0 fw-normal">Mobile Apps Developer</h4>
+        </div>
+        <div class="card-body">
+          <img src="https://wl3-cdn.landsec.com/sites/default/files/images/shops/logos/pure-gym_0.png" style="width: 100px;height: 100px;"/>
+          <h3 class="card-title pricing-card-title">Pure Gym</h3>
+          <h4><small class="text-muted fw-light">Aug 2022 - Present</small></h4>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card mb-4 rounded-3 shadow-sm">
+        <div class="card-header py-3 text-black">
           <h4 class="my-0 fw-normal">Senior Mobile Apps Developer</h4>
         </div>
         <div class="card-body">
+          <img src="https://www.nextplc.co.uk/~/media/Images/N/Next-PLC-V2/content-images/image-gallery/logos/next-white-v2-logo.jpg?w=767" style="width: 100px;height: 100px;"/>
           <h3 class="card-title pricing-card-title">Next Technology</h3>
-          <h4><small class="text-muted fw-light">Jul 2021 - Present</small></h4>
+          <h4><small class="text-muted fw-light">Jul 2021 - Aug 2022</small></h4>
         </div>
       </div>
     </div>
@@ -27,6 +40,7 @@ title: "Portfolio"
           <h4 class="my-0 fw-normal">Mobile Apps Developer</h4>
         </div>
         <div class="card-body">
+          <img src="https://www.nextplc.co.uk/~/media/Images/N/Next-PLC-V2/content-images/image-gallery/logos/next-white-v2-logo.jpg?w=767" style="width: 100px;height: 100px;"/>
           <h3 class="card-title pricing-card-title">Next Technology</h3>
           <h4><small class="text-muted fw-light">Aug 2017 – Jul 2021</small></h4>
         </div>
@@ -38,6 +52,7 @@ title: "Portfolio"
           <h4 class="my-0 fw-normal">Trainee Mobile Apps Developer</h4>
         </div>
         <div class="card-body">
+          <img src="https://www.nextplc.co.uk/~/media/Images/N/Next-PLC-V2/content-images/image-gallery/logos/next-white-v2-logo.jpg?w=767" style="width: 100px;height: 100px;"/>
           <h3 class="card-title pricing-card-title">Next Technology</h3>
           <h4><small class="text-muted fw-light">Jul 2017 – Aug 2018</small></h4>
         </div>
