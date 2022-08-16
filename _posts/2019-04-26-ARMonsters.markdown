@@ -3,6 +3,7 @@ title:  "AR Monsters"
 layout: post
 subtitle: "An AR Application To Show Image Detection"
 author: "Robert Wildgoose"
+currentVersion: "Proof Of Concept"
 avatar: "img/authors/robertwildgoose.png"
 class: "devicon-swift-plain-wordmark colored"
 image: "assets/images/Icons/ARMonsters.jpg"
