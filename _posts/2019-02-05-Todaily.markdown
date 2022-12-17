@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Todaily"
+date:   2016-02-05 15:08:10 -0500
+img: img/portfolio/cake.png
+modalID: modalCake
+category: Mobile App
+---
+A Swift iOS ToDo list app allowing the user to create projects and tasks and monitor the progress on each one.
+<a href="https://apps.apple.com/us/app/todaily/id1547146189"><img style="height:80px;" src="{{site.baseurl}}/img/portfolio/appstore.png"/></a>
+# Release Notes
+
+<div class="release_note">
+	<h2 class="release_note_title">Version 2.6.0</h2>
+	<p class="release_note_description">Categorised Emojis List, Ability To Change Project Emojis, Private Projects (Lock Projects Behind A Passworded Screen)</p>
+	<h5 class="release_note_date">May 4, 2021</h5>
+</div>
+<div class="release_note">
+	<h2 class="release_note_title">Version 2.5.1</h2>
+	<p class="release_note_description">UI Fixes For Dark Mode, Edit Mode For Projects</p>
+	<h5 class="release_note_date">Apr 27, 2021</h5>
+</div>
+<div class="release_note">
+	<h2 class="release_note_title">Version 2.5.0</h2>
+	<p class="release_note_description">You can now customise your projects even more by adding emojis as project icons</p>
+	<h5 class="release_note_date">Apr 21, 2021</h5>
+</div>
+<div class="release_note">
+	<h2 class="release_note_title">Version 2.4.0</h2>
+	<p class="release_note_description">Ability To Complete Tasks, Ability To Undo Completion Of Tasks, Swipe Actions On Tasks ,See Incomplete tasks count on homepage</p>
+	<h5 class="release_note_date">Apr 15, 2021</h5>
+</div>
+<div class="release_note">
+	<h2 class="release_note_title">Version 2.3.0</h2>
+	<p class="release_note_description">This release allows you to add updates and comments to your tasks. This release also resolves some issues relating to adding projects.</p>
+	<h5 class="release_note_date">Mar 31, 2021</h5>
+</div>
+<div class="release_note">
+	<h2 class="release_note_title">Version 2.2.2</h2>
+	<p class="release_note_description">Small Fixes Projects and Small Fixes Tasks.</p>
+	<h5 class="release_note_date">Mar 25, 2021</h5>
+</div>
+<div class="release_note">
+	<h2 class="release_note_title">Version 2.2.1</h2>
+	<p class="release_note_description">Create projects for your tasks so you can monitor the progression of a project.</p>
+	<h5 class="release_note_date">Mar 24, 2021</h5>
+</div>
+<div class="release_note">
+	<h2 class="release_note_title">Version 2.1</h2>
+	<p class="release_note_description">Fixed some issues with older devices ,Fixed some issues with text not showing correctly.</p>
+	<h5 class="release_note_date">Feb 1, 2021</h5>
+</div>
+<div class="release_note">
+	<h2 class="release_note_title">Version 2.0</h2>
+	<p class="release_note_description">Need More Info? - Tasks Now Have Descriptions, Need To Know What You Added Last? - Tasks Can Now Be Sorted By Date, Got A Task That You Will Never Do? - You Can Now Archive Tasks, Scrapping Your Entire Todo List? - You Can Now Clear All</p>
+	<h5 class="release_note_date">Jan 16, 2021</h5>
+</div>
+<div class="release_note">
+	<h2 class="release_note_title">Version 1.0</h2>
+	<p class="release_note_description">Initial Upload</p>
+	<h5 class="release_note_date">Jan 10, 2021</h5>
+</div>
