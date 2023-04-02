@@ -1,0 +1,16 @@
+---
+layout: default
+---
+  {% include header.html %}
+
+  {% include banner.html %}
+  <center><h1 class="title" style="color: white;">{% if site.banner-title %}{{ site.banner-title }}{% else %} {% endif %}</h1></center>
+  <main class="page-content" aria-label="Content">
+  <section class="chapters cf">
+      <div class="wrapper flex-row">
+      {{ content }}
+      </div>
+  </section>
+  </main>
+
+  {% include footer.html %}

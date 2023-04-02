@@ -1,26 +1,53 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+logo: # add logo name
+title: Robert Wildgoose - Portfolio
+description: "" # this means to ignore newlines until "baseurl:"
 
-# Site settings
-title: Robert Wildgoose
-email: contact@robertwildgoose.co.uk
-description: > # this means to ignore newlines until "baseurl:"
-  Mobile Apps Developer 
+permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://robertwildgoose.github.io/" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Social media profiles - feel free to add more here
-github_username:  RobertWildgoose
-apple_username:  https://apps.apple.com/bh/developer/robert-wildgoose/id1469132514
-linkedin_url: https://www.linkedin.com/in/robert-wildgoose-2031a183/
+# Banner settings
+video: laptop.mp4 # add banner video. Add your video file to the folder video
+banner-title: "Robert Wildgoose Portfolio" # add banner title
+banner-desc: "" # add banner description
+
+# Author settings
+author-pic: face.jpeg # your photo
+author-name: Robert Wildgoose
+about-author: "" # about author
+email: contact@robertwildgoose.co.uk # your email
+phone: "" # your pnone number
+website: http://robertwildgoose.co.uk # you website
+
+# Social link
+linkedin_url: "https://www.linkedin.com/in/robert-wildgoose-2031a183/"   # add url link
+twitter_url: ""   # add url link
+instagram_url: "" # add url link
+github_url: "https://github.com/RobertWildgoose" # add url link
+apple_url: "https://apps.apple.com/bh/developer/robert-wildgoose/id1469132514" # add url link
+facebook_url: "" # add url link
+
+# Disqus
+discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
+
+# Newsletter
+mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Tracker
+analytics:
+
+# Paginate
+paginate: 12
+paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-sitemap
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
 
-collections:
-  terms:
-    output: true
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
