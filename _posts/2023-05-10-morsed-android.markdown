@@ -7,7 +7,7 @@ description:
 tag: [Morsed, App]
 ---
 
-Hey everyone, I'm thrilled to announce that I've just released my new Android app "Morsed" on the Google Play Store! I've always been fascinated by Morse code and its history, and I wanted to create an app that makes it easy for anyone to learn and use this unique communication method.
+Hey everyone, I'm thrilled to announce that I've just released my new Android app "Morsed" on the Google Play Store!
 
 With "Morsed", you can translate regular text into Morse code and vice versa. This feature makes it simple for anyone to learn Morse code and start communicating in this fascinating language. Additionally, I've added a fun feature that allows you to translate emojis into Morse code, bringing this communication method into the 21st century.
 
