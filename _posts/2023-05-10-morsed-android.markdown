@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Morsed Android"
-img: ibiza.png # Add image post (optional)
+img: ibiza.jpg # Add image post (optional)
 date: 2023-05-10 12:55:00 +0300
 description: 
 tag: [Morsed, App]
