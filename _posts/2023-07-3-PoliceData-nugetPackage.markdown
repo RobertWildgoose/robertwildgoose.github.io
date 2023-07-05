@@ -9,7 +9,8 @@ tag: [PoliceData, NugetPackage]
 
 # PoliceAPI_Client
 <br>
-<img src="https://github.com/RobertWildgoose/PoliceAPI_Client/actions/workflows/main.yml/badge.svg"/>
+<img src="https://github.com/RobertWildgoose/PoliceAPI_Client/actions/workflows/build.yml/badge.svg"/>
+<br>
 A C# Wrapper around the Police API (data.police.uk).
 <h1>Introduction</h1>
 
