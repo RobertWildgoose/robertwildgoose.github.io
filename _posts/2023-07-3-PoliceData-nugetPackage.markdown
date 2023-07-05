@@ -26,11 +26,13 @@ The official documentation for the Data Police UK API can be found here.
 To begin using the Police Data API Wrapper, you can install the NuGet package using one of the following methods:
 
 <h3>Package Manager Console:</h3>
+```cs
 Install-Package PoliceAPI_Client
-
+```
 <h3>.NET CLI:</h3>
+```cs
 dotnet add package PoliceAPI_Client
-
+```
 <h3>Visual Studio:</h3>
 Right-click on your project in the Solution Explorer.
 Select "Manage NuGet Packages."
