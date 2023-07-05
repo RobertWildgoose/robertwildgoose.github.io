@@ -8,8 +8,9 @@ tag: [PoliceData, NugetPackage]
 ---
 
 # PoliceAPI_Client
-A C# Wrapper around the Police API (data.police.uk).
+<br>
 <img src="https://github.com/RobertWildgoose/PoliceAPI_Client/actions/workflows/main.yml/badge.svg"/>
+A C# Wrapper around the Police API (data.police.uk).
 <h1>Introduction</h1>
 
 The Police Data API Wrapper is a convenient C# library that simplifies access to the Data Police UK API.
