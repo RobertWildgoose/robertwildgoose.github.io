@@ -3,7 +3,7 @@ layout: post
 title: "Colouring Books"
 img: colouringbook.jpg # Add image post (optional)
 date: 2023-03-19 12:50:00 +0300
-tag: [ColouringBooks]
+tag: [ColouringBooks,Service]
 ---
 
 Coloring books are a great way to unwind and relax after a long day. They provide an outlet for creativity, helping you to de-stress and refocus your mind. With the advancements in technology, it has become easier than ever to create unique and high-quality imagery for coloring books. I am excited to share with you my experience of creating coloring books with the help of AI imagery generation.

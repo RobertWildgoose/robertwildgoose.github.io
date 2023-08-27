@@ -3,7 +3,7 @@ layout: post
 title: "App Icon Generator"
 img: indonesia.jpg # Add image post (optional)
 date: 2019-06-06 12:55:00 +0300
-tag: [AppIconGenerator, ProofOfConcept]
+tag: [AppIconGenerator, ProofOfConcept,Software]
 ---
 
 As a developer, have you ever been in a situation where you needed to convert your app icons to the correct sizes for iOS and Android platforms? If yes, you know how tedious and time-consuming it can be to manually resize images. However, now there's a solution that can save you time and effort - a mac app that can automatically resize your app icons to the correct sizes!
