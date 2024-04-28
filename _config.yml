@@ -1,53 +1,45 @@
-logo: # add logo name
-title: Robert Wildgoose - Portfolio
-description: "" # this means to ignore newlines until "baseurl:"
+# Site settings
+title: Robert Wildgoose
+email: contact@robertwildgoose.co.uk
+url: https://robertwildgoose.github.io/
+skills: "Mobile App Developer"
+meta_author: Wildgoose Robert
 
-permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+collections:
+  projects:
+    output: true
+  nugets:
+    output: true
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 0d355d #0d355d
+  secondary: 477cb1 #477cb1
+  secondary-dark: 247cd4 #031425
 
-# Banner settings
-video: laptop.mp4 # add banner video. Add your video file to the folder video
-banner-title: "Robert Wildgoose Portfolio" # add banner title
-banner-desc: "" # add banner description
+# Footer settings
+footer:
+  copyright: Robert Wildgoose
 
-# Author settings
-author-pic: face.jpeg # your photo
-author-name: Robert Wildgoose
-about-author: "" # about author
-email: contact@robertwildgoose.co.uk # your email
-phone: "" # your pnone number
-website: http://robertwildgoose.co.uk # you website
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/robert-wildgoose-2031a183/
+  - title: facebook
+    url: https://www.facebook.com/robert.wildgoose.10
+  - title: stack-overflow
+    url: https://stackoverflow.com/users/10173290/rwildgoose
+  - title: github
+    url: https://github.com/RobertWildgoose
 
-# Social link
-linkedin_url: "https://www.linkedin.com/in/robert-wildgoose-2031a183/"   # add url link
-twitter_url: ""   # add url link
-instagram_url: "" # add url link
-github_url: "https://github.com/RobertWildgoose" # add url link
-apple_url: "https://apps.apple.com/bh/developer/robert-wildgoose/id1469132514" # add url link
-facebook_url: "" # add url link
-
-# Disqus
-discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
-
-# Newsletter
-mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-
-# Tracker
-analytics:
-
-# Paginate
-paginate: 12
-paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
-plugins_dir:
-  - jekyll-paginate
-  - jekyll-sitemap
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
+permalink: pretty
 
-include: [_pages]
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
