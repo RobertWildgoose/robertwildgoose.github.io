@@ -6,6 +6,10 @@ skills: "Mobile App Developer"
 meta_author: Wildgoose Robert
 
 collections:
+  iosapps:
+    output: true
+  androidapps:
+    output: true
   projects:
     output: true
   nugets:
