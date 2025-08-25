@@ -1,0 +1,132 @@
+---
+title: Home
+layout: default
+background: '/img/bg-index.jpg'
+---
+
+<!-- Home Intro
+================================================== -->
+{% if page.url == "/" %} 
+<div class="rounded mb-5 hero bg-light py-5">
+  <div class="row align-items-center justify-content-between">
+    <div class="col-md-12">
+      <h1 class="font-weight-bold mb-4 serif-font">I Build Mobile Apps That Get Work Done</h1>
+      <p class="lead mb-4">
+        I’m Rob — a mobile developer specialising in high-performance, cross-platform apps  
+        built with <strong>C#</strong> and <strong>.NET MAUI</strong>.  
+        I focus on smooth, reliable user experiences across iOS and Android.  
+      </p>
+      <p class="lead mb-4">
+        From <strong>Slapp</strong> for agile project management  
+        to <strong>Morsed</strong> for learning Morse code,  
+        I love turning ideas into simple, powerful tools people enjoy using.  
+      </p>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- Featured
+================================================== -->
+<section class="row">
+  {% for post in site.posts %}
+      {% if post.featured == true %}
+          <div class="col-md-4 mb-5">fdsf
+          {% include postbox.html %}
+          </div>
+      {% endif %}
+  {% endfor %}
+  </div>
+</section>
+
+<section class="row">
+  <div class="col-sm-12">
+    <div class="row">
+      {% for post in paginator.posts %}
+      {% unless post.featured == true %}
+      <div class="col-md-6 mb-5">
+        {% include postbox.html %}
+      </div>
+      {% endunless %}
+      {% endfor %}
+    </div>
+    <!-- Pagination -->
+    <div class="bottompagination">
+      <span class="navigation" role="navigation">
+          {% include pagination.html %}
+      </span>
+    </div>
+  </div>
+</section>
+
+<section class="row">
+  <div class="col-12 mb-4">
+    <h1>Apps</h1>
+  </div>
+
+  <!-- Morsed Card -->
+  <div class="col-sm-12 col-md-6 mb-4 d-flex">
+    <div class="card h-100 shadow-sm text-center p-3 flex-fill d-flex flex-column">
+      <img class="mb-3 mx-auto" style="width:80px;" src="https://play-lh.googleusercontent.com/GkleELLnNAACkGrCCwIC6ydBOATRurt37jL97F2Cc_b7wZCFaN5i5WHt_Tc3kw8GDg=w240-h480-rw" alt="Morsed Logo">
+      <h3 class="card-title mb-2">Morsed</h3>
+      <p class="card-text mb-3 flex-grow-1">
+        A versatile Morse code app that translates text to Morse code and back, while also helping users learn and explore the history of Morse code.
+      </p>
+      <a href="{{site.baseurl}}/morsed" class="btn btn-outline-primary btn-sm mt-auto">Check It Out</a>
+    </div>
+  </div>
+
+  <!-- Slapp Card -->
+  <div class="col-sm-12 col-md-6 mb-4 d-flex">
+    <div class="card h-100 shadow-sm text-center p-3 flex-fill d-flex flex-column">
+      <img class="mb-3 mx-auto" style="width:80px;" src="https://play-lh.googleusercontent.com/YflXIsQKOta2b5sPALHxmwXKo12BByv_R4V4mlVh1U6OcL0yoopufRfxTC0XVYM0iQ=w240-h480-rw" alt="Slapp Logo">
+      <h3 class="card-title mb-2">Slapp</h3>
+      <p class="card-text mb-3 flex-grow-1">
+        An agile project management app designed to help individuals organize projects, manage sprints, and track tasks efficiently with a clean and intuitive interface.
+      </p>
+      <a href="{{site.baseurl}}/slapp" class="btn btn-outline-primary btn-sm mt-auto">Check It Out</a>
+    </div>
+  </div>
+</section>
+'
+<section class="row">
+  <div class="col-12 mb-4">
+    <h2>Nuget Packages</h2>
+  </div>
+
+  <!-- RickNMorty.Common -->
+  <div class="col-sm-12 col-md-6 mb-4 d-flex">
+    <div class="card shadow-sm p-3 flex-fill d-flex flex-column text-center">
+      <img class="mb-3 mx-auto" style="width:100px;" src="https://api.nuget.org/v3-flatcontainer/ricknmorty.common/1.0.3/icon" alt="RickNMorty.Common Logo">
+      <h3 class="card-title mb-2">RickNMorty.Common</h3>
+      <p class="card-text mb-3 flex-grow-1">
+        A lightweight .NET client to fetch characters, episodes and locations from the Rick and Morty universe with an easy-to-use async API.
+      </p>
+      <a href="https://www.nuget.org/packages/RickNMorty.Common" class="btn btn-outline-primary btn-sm mt-auto">Check It Out</a>
+    </div>
+  </div>
+
+  <!-- ApiUtilities.Common -->
+  <div class="col-sm-12 col-md-6 mb-4 d-flex">
+    <div class="card shadow-sm p-3 flex-fill d-flex flex-column text-center">
+      <img class="mb-3 mx-auto" style="width:100px;" src="https://api.nuget.org/v3-flatcontainer/apiutilities.common/1.1.1/icon" alt="ApiUtilities.Common Logo">
+      <h3 class="card-title mb-2">ApiUtilities.Common</h3>
+      <p class="card-text mb-3 flex-grow-1">
+        A lightweight and flexible .NET client for consuming RESTful APIs with minimal setup. Provides intuitive async methods, JSON serialization, and error handling to simplify API integration in your applications.
+      </p>
+      <a href="https://www.nuget.org/packages/ApiUtilities.Common" class="btn btn-outline-primary btn-sm mt-auto">Check It Out</a>
+    </div>
+  </div>
+
+  <!-- PoliceAPI.Common -->
+  <div class="col-sm-12 col-md-6 mb-4 d-flex">
+    <div class="card shadow-sm p-3 flex-fill d-flex flex-column text-center">
+      <img class="mb-3 mx-auto" style="width:100px;" src="https://api.nuget.org/v3-flatcontainer/policeapi.common/1.1.1/icon" alt="PoliceAPI.Common Logo">
+      <h3 class="card-title mb-2">PoliceAPI.Common</h3>
+      <p class="card-text mb-3 flex-grow-1">
+        A lightweight and flexible .NET client for accessing UK Police API data with minimal setup. Offers intuitive async methods, built-in JSON handling, and robust error management to make retrieving crime statistics, outcomes, and police force information effortless.
+      </p>
+      <a href="https://www.nuget.org/packages/PoliceAPI.Common/" class="btn btn-outline-primary btn-sm mt-auto">Check It Out</a>
+    </div>
+  </div>
+</section>

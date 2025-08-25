@@ -1,0 +1,22 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Privacy Policy
+  url: "privacy-policy"
+
+- title: Morsed
+  url: "morsed/"
+  external: false
+
+- title: SLAPP
+  url: "slapp/"
+  external: false
